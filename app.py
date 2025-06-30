@@ -4,7 +4,7 @@ import csv
 
 
 def getListNames():
-    nameList = ['Type in a name']
+    nameList = ['Enter name']
     # combined file with all the peopleIDs
     with open("AllPeopleID.csv",
               "r") as file_in:
@@ -49,7 +49,7 @@ def getVotes(peopleID, activeSessions):
                 row = row.split(',')
                 if row[1] == peopleID:
                     roll_call_dict[row[0]] = [row[3], f"{session} Session"]
-        print("roll_call_dict", roll_call_dict)
+        # print("roll_call_dict", roll_call_dict)
     # get bill id from rollcalls.csv
         for bill in roll_call_dict.keys():
             with open(
@@ -81,3 +81,12 @@ selected_name = st.selectbox(
 )
 
 st.write(f"You selected: {selected_name}")
+
+votes_button = st.button(f"Get {selected_name}'s voting record}
+
+if voted_button:
+    # find people_id
+    people_id = getPeopleID(selected_name)
+    st.write(people_id)
+    
+
