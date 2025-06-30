@@ -1,0 +1,1143 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+86896,106372,2009-03-26,Senate,"Reported Favorably With Substitute S-1",3,0,0,0,3
+86921,106736,2009-04-30,House,"Reported With Recommendation With Substitute H-1",11,5,0,0,16
+86924,106754,2009-12-19,Senate,"Reported Favorably With Substitute S-2",10,7,0,0,17
+86934,106841,2009-05-07,Senate,"Reported Favorably With Substitute S-2",4,0,0,0,4
+86940,106921,2009-05-07,Senate,"Reported Favorably With Substitute S-2",4,0,0,0,4
+86943,106953,2009-05-07,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+86944,106966,2009-05-07,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+86945,106975,2009-05-07,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+86947,107008,2009-04-01,Senate,"Reported Favorably With Substitute S-1",18,0,0,0,18
+86956,107105,2009-03-18,House,"Reported With Recommendation Without Amendment(s)",14,0,0,0,14
+86961,107148,2009-12-16,House,"Reported With Recommendation Without Amendment",7,0,0,0,7
+86969,107217,2009-03-25,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+86969,107218,2010-09-14,Senate,"Reported Favorably With Substitute S-1",2,0,0,0,2
+86976,107281,2009-03-11,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+86979,107320,2009-02-17,House,"Reported With Recommendation For Referral To Committee On Tax Policy",8,0,0,0,8
+86980,107329,2009-03-11,House,"Reported With Recommendation Without Amendment(s)",9,0,0,0,9
+86986,107404,2009-02-17,House,"Reported With Recommendation For Referral To Committee On Tax Policy",9,0,0,0,9
+86996,107518,2009-02-17,House,"Reported With Recommendation Without Amendment(s)",10,0,0,0,10
+87006,107623,2009-02-17,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+87006,107624,2010-11-09,House,"Reported With Recommendation With Substitute H-1",10,0,0,0,10
+87007,107634,2009-02-17,House,"Reported With Recommendation With Substitute H-1",10,0,0,0,10
+87007,107635,2010-11-09,House,"Reported With Recommendation With Substitute H-1",10,0,0,0,10
+87010,107673,2009-03-04,House,"Reported With Recommendation Without Amendment(s)",8,0,0,0,8
+87010,107674,2009-04-01,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+87012,107710,2009-09-21,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+87015,107744,2009-02-17,House,"Reported With Recommendation Without Amendment",9,1,0,0,10
+87015,107745,2010-11-09,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+87017,107773,2009-03-19,House,"Reported With Recommendation With Substitute H-1",7,0,0,0,7
+87017,107774,2009-06-24,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+87020,107822,2009-05-06,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+87020,107823,2010-09-14,Senate,"Reported Favorably Without Amendment",2,0,0,0,2
+87023,107861,2009-11-10,House,"Reported With Recommendation With Substitute H-2",15,0,0,0,15
+87023,107862,2010-03-02,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+87033,107991,2009-10-06,Senate,"Reported Favorably With Amendment(s)",13,0,0,0,13
+87035,108007,2009-04-28,House,"Reported With Recommendation Without Amendment(s)",7,0,0,0,7
+87042,108084,2009-09-25,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+87051,108186,2009-12-10,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+87052,108203,2010-02-16,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+87054,108223,2009-05-05,House,"Reported With Recommendation For Referral To Committee On Military And Veterans Affairs And Homeland Security",11,0,0,0,11
+87068,108375,2009-03-03,House,"Reported With Recommendation Without Amendment(s)",6,3,0,0,9
+87069,108389,2009-03-18,House,"Reported With Recommendation Without Amendment(s)",14,0,0,0,14
+87069,108390,2009-10-27,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+87072,108416,2010-03-11,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+87073,108428,2010-03-11,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+87081,108539,2009-02-25,House,"Reported With Recommendation Without Amendment(s)",11,0,0,0,11
+87085,108568,2009-03-12,House,"Reported With Recommendation Without Amendment(s)",9,0,0,0,9
+87085,108569,2009-10-20,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+87090,108613,2009-03-05,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+87095,108653,2009-08-19,House,"Reported With Recommendation With Substitute H-2",11,4,0,0,15
+87099,108714,2010-03-11,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+87108,108805,2009-12-02,House,"Reported With Recommendation With Substitute H-6",17,0,0,0,17
+87109,108811,2009-04-02,Senate,"Reported Favorably With Substitute S-1",8,0,0,0,8
+87115,108889,2009-10-27,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+87137,109108,2009-03-03,House,"Reported With Recommendation Without Amendment(s)",10,0,0,0,10
+87137,109109,2009-03-31,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+87159,109388,2009-05-27,Senate,"Reported Favorably With Substitute S-1",3,1,0,0,4
+87160,109403,2009-05-07,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+87161,109405,2009-06-25,Senate,"Reported Favorably With Substitute S-1",18,0,0,0,18
+87162,109410,2009-10-20,Senate,"Reported Favorably With Substitute S-2",18,0,0,0,18
+87163,109418,2010-05-26,House,"Reported With Recommendation With Substitute H-1",7,0,0,0,7
+87175,109555,2009-05-13,House,"Reported With Recommendation Without Amendment",11,0,0,0,11
+87178,109597,2009-08-18,Senate,"Reported Favorably With Substitute S-1",3,0,0,0,3
+87204,109847,2009-02-25,House,"Reported With Recommendation Without Amendment(s)",11,0,0,0,11
+87207,109881,2010-02-17,House,"Reported With Recommendation Without Amendment",12,0,0,0,12
+87208,109890,2010-02-17,House,"Reported With Recommendation With Amendment(s)",11,0,0,0,11
+87209,109910,2010-02-17,House,"Reported With Recommendation With Amendment(s)",11,0,0,0,11
+87210,109926,2010-02-17,House,"Reported With Recommendation Without Amendment",12,0,0,0,12
+87233,110262,2010-03-16,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+87237,110304,2009-09-24,Senate,"Reported Favorably Without Amendment",7,1,0,0,8
+87248,110468,2009-03-12,House,"Reported With Recommendation Without Amendment(s)",8,0,0,0,8
+87248,110469,2009-04-01,Senate,"Reported Favorably With Substitute S-1",18,0,0,0,18
+87249,110490,2009-03-12,House,"Reported With Recommendation Without Amendment(s)",8,0,0,0,8
+87255,110610,2010-06-15,Senate,"Reported Favorably With Substitute S-1",4,3,0,0,7
+87257,110631,2010-05-04,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+87260,110657,2009-03-25,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+87275,110877,2009-12-03,House,"Reported With Recommendation With Substitute H-1",9,6,0,0,15
+87277,110916,2009-03-26,House,"Reported With Recommendation With Substitute H-1",11,5,0,0,16
+87278,110940,2009-03-26,House,"Reported With Recommendation With Substitute H-2",11,6,0,0,17
+87280,110959,2009-03-26,House,"Reported With Recommendation With Substitute H-1",10,7,0,0,17
+87286,111073,2009-06-23,Senate,"Reported Favorably With Substitute S-1",17,0,0,0,17
+87287,111084,2009-06-23,Senate,"Reported Favorably With Substitute S-1",17,0,0,0,17
+87288,111100,2009-06-23,Senate,"Reported Favorably With Substitute S-1",11,6,0,0,17
+87289,111112,2009-06-23,Senate,"Reported Favorably With Substitute S-1",17,0,0,0,17
+87292,111159,2009-06-23,Senate,"Reported Favorably With Substitute S-1",17,0,0,0,17
+87298,111240,2009-06-23,Senate,"Reported Favorably With Substitute S-1",10,7,0,0,17
+87304,111339,2009-03-05,House,"Reported With Recommendation With Substitute H-1",6,0,0,0,6
+87304,111340,2009-03-26,Senate,"Reported Favorably With Substitute S-1",4,3,0,0,7
+87305,111354,2009-03-05,House,"Reported With Recommendation With Substitute H-1",6,0,0,0,6
+87305,111355,2009-03-26,Senate,"Reported Favorably With Substitute S-1",4,3,0,0,7
+87306,111371,2009-03-05,House,"Reported With Recommendation With Substitute H-1",6,0,0,0,6
+87306,111372,2009-03-26,Senate,"Reported Favorably With Substitute S-1",4,3,0,0,7
+87310,111440,2010-09-21,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+87318,111526,2009-06-24,House,"Reported With Recommendation Without Amendment(s)",6,4,0,0,10
+87321,111557,2009-04-01,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+87322,111574,2009-03-26,House,"Reported With Recommendation Without Amendment(s)",11,6,0,0,17
+87331,111659,2010-04-22,Senate,"Reported Favorably Without Amendment",16,0,0,0,16
+87344,111810,2010-06-24,House,"Reported With Recommendation With Substitute H-2",10,1,0,0,11
+87346,111841,2010-09-22,House,"Reported With Recommendation Without Amendment",13,0,0,0,13
+87352,111917,2009-06-09,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+87353,111924,2009-06-09,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+87358,111989,2009-03-17,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+87363,112036,2010-03-04,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+87365,112064,2009-03-18,House,"Reported With Recommendation With Substitute H-1",14,0,0,0,14
+87365,112065,2009-06-09,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+87366,112077,2009-03-26,Senate,"Reported Favorably With Substitute S-1",3,0,0,0,3
+87367,112096,2010-03-24,House,"Reported With Recommendation With Substitute H-1",4,0,0,0,4
+87373,112213,2010-11-10,House,"Reported With Recommendation With Substitute H-3",9,4,0,0,13
+87374,112229,2009-04-22,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+87374,112230,2009-09-10,Senate,"Reported Favorably With Substitute S-2",3,1,0,0,4
+87386,112408,2010-02-10,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+87389,112458,2010-09-22,Senate,"Reported Favorably With Substitute S-1",17,0,0,0,17
+87394,112539,2010-03-24,House,"Reported With Recommendation With Substitute H-1",4,0,0,0,4
+87395,112548,2010-03-24,House,"Reported With Recommendation With Substitute H-1",4,0,0,0,4
+87396,112556,2010-03-24,House,"Reported With Recommendation With Substitute H-1",4,0,0,0,4
+87397,112571,2010-03-24,House,"Reported With Recommendation With Substitute H-1",4,0,0,0,4
+87398,112583,2010-03-24,House,"Reported With Recommendation With Substitute H-3",4,0,0,0,4
+87399,112588,2010-03-24,House,"Reported With Recommendation With Substitute H-2",4,0,0,0,4
+87400,112627,2010-03-24,House,"Reported With Recommendation With Substitute H-1",4,0,0,0,4
+87401,112656,2010-03-24,House,"Reported With Recommendation With Substitute H-2",4,0,0,0,4
+87402,112666,2010-03-24,House,"Reported With Recommendation With Substitute H-1",4,0,0,0,4
+87403,112684,2010-03-24,House,"Reported With Recommendation With Substitute H-1",4,0,0,0,4
+87404,112690,2010-03-24,House,"Reported With Recommendation With Substitute H-1",4,0,0,0,4
+87416,112829,2009-11-12,Senate,"Reported Favorably With Substitute S-1",6,0,0,0,6
+87419,112865,2009-06-16,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+87420,112878,2009-06-16,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+87430,112993,2009-05-19,Senate,"Reported Favorably With Substitute S-3",5,2,0,0,7
+87433,113017,2009-03-26,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+87434,113024,2010-09-21,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+87448,113159,2010-11-10,House,"Reported With Recommendation With Substitute H-5",13,2,0,0,15
+87449,113166,2010-11-10,House,"Reported With Recommendation With Substitute H-5",13,2,0,0,15
+87450,113176,2010-11-10,House,"Reported With Recommendation With Substitute H-5",13,2,0,0,15
+87451,113186,2010-11-10,House,"Reported With Recommendation With Substitute H-5",13,2,0,0,15
+87452,113212,2009-06-10,House,"Reported With Recommendation With Substitute H-1",8,1,0,0,9
+87458,113280,2009-03-19,House,"Reported With Recommendation With Substitute H-1",7,0,0,0,7
+87458,113281,2009-06-24,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+87461,113342,2009-05-05,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+87469,113436,2009-04-29,House,"Reported With Recommendation Without Amendment(s)",7,0,0,0,7
+87480,113613,2009-09-25,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+87500,113884,2009-09-21,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+87501,113911,2009-09-21,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+87504,113944,2009-04-29,House,"Reported With Recommendation For Referral To Committee On Transportation",14,0,0,0,14
+87506,113976,2009-09-24,Senate,"Reported Favorably Without Amendment",7,1,0,0,8
+87507,113979,2009-09-24,Senate,"Reported Favorably With Amendment(s)",6,1,0,0,7
+87509,114003,2009-09-24,Senate,"Reported Favorably Without Amendment",7,1,0,0,8
+87510,114028,2009-09-24,Senate,"Reported Favorably With Amendment(s)",6,1,0,0,7
+87514,114048,2010-07-01,House,"Reported With Recommendation With Substitute H-1",8,3,0,0,11
+87519,114101,2009-03-25,House,"Reported With Recommendation Without Amendment(s)",9,0,0,0,9
+87519,114102,2009-04-01,Senate,"Reported Favorably Without Amendment",18,0,0,0,18
+87520,114111,2009-03-25,House,"Reported With Recommendation Without Amendment(s)",9,0,0,0,9
+87520,114112,2009-04-01,Senate,"Reported Favorably Without Amendment",18,0,0,0,18
+87521,114144,2009-03-25,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+87521,114145,2009-04-01,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+87524,114182,2009-09-24,Senate,"Reported Favorably With Amendment(s)",7,1,0,0,8
+87525,114193,2009-04-22,House,"Reported With Recommendation Without Amendment(s)",11,0,0,0,11
+87525,114194,2009-06-11,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+87533,114301,2009-04-29,House,"Reported With Recommendation For Referral To Committee On Urban Policy",14,0,0,0,14
+87534,114310,2009-08-05,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+87535,114335,2009-08-05,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+87537,114365,2009-08-05,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+87538,114376,2009-08-05,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+87546,114469,2009-08-05,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+87547,114488,2009-08-05,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+87560,114615,2009-10-27,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+87566,114750,2009-05-07,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+87572,114834,2009-06-23,Senate,"Reported Favorably With Substitute S-1",16,0,0,0,16
+87573,114856,2009-03-31,House,"Reported With Recommendation Without Amendment(s)",9,0,0,0,9
+87574,114866,2010-01-20,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+87575,114882,2010-01-20,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+87578,114942,2009-04-29,House,"Reported With Recommendation Without Amendment(s)",7,0,0,0,7
+87594,115217,2009-04-02,House,"Reported With Recommendation With Substitute H-1",8,0,0,0,8
+87594,115218,2009-06-18,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+87600,115290,2009-04-02,House,"Reported With Recommendation With Substitute H-2",8,0,0,0,8
+87600,115291,2009-06-18,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+87608,115391,2009-05-05,House,"Reported With Recommendation Without Amendment(s)",11,0,0,0,11
+87609,115398,2009-04-28,House,"Reported With Recommendation Without Amendment(s)",8,0,0,0,8
+87621,115584,2009-06-18,House,"Reported With Recommendation For Referral To Committee On Military And Veterans Affairs And Homeland Security",11,0,0,0,11
+87623,115604,2009-12-16,House,"Reported With Recommendation Without Amendment",6,0,0,0,6
+87632,115702,2009-04-21,House,"Reported With Recommendation Without Amendment(s)",8,0,0,0,8
+87632,115703,2009-05-14,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+87633,115722,2009-04-21,House,"Reported With Recommendation Without Amendment(s)",8,0,0,0,8
+87644,115851,2009-08-18,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+87668,116163,2009-05-13,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+87669,116178,2009-05-13,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+87670,116184,2009-05-13,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+87671,116195,2010-02-10,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+87680,116317,2010-04-20,House,"Reported With Recommendation With Substitute H-1",18,0,0,0,18
+87693,116500,2009-07-14,House,"Reported With Recommendation For Referral To Committee On Health Policy",13,0,0,0,13
+87694,116512,2009-07-14,House,"Reported With Recommendation For Referral To Committee On Health Policy",13,0,0,0,13
+87695,116521,2009-08-19,House,"Reported With Recommendation With Substitute H-2",11,5,0,0,16
+87697,116569,2009-08-19,House,"Reported With Recommendation With Substitute H-4",11,4,0,0,15
+87738,117097,2009-06-03,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+87741,117140,2009-05-14,House,"Reported With Recommendation With Substitute H-2",17,0,0,0,17
+87742,117162,2009-05-14,House,"Reported With Recommendation Without Amendment(s)",17,0,0,0,17
+87744,117188,2009-10-20,House,"Reported With Recommendation With Substitute H-1",15,0,0,0,15
+87745,117194,2009-08-19,House,"Reported With Recommendation With Substitute H-3",9,0,0,0,9
+87748,117222,2009-05-19,House,"Reported With Recommendation With Substitute H-2",8,0,0,0,8
+87750,117252,2010-03-11,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+87751,117265,2010-05-04,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+87752,117282,2010-03-11,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+87755,117315,2009-12-08,House,"Reported With Recommendation With Substitute H-2",8,0,0,0,8
+87756,117337,2009-12-08,House,"Reported With Recommendation With Substitute H-2",9,0,0,0,9
+87757,117344,2009-09-21,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+87773,117566,2009-05-20,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+87780,117678,2009-05-20,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+87781,117688,2009-05-20,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+87781,117689,2009-06-11,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+87783,117712,2009-08-18,Senate,"Reported Favorably With Substitute S-2",4,0,0,0,4
+87809,118071,2010-09-22,House,"Reported With Recommendation With Substitute H-1",12,0,0,0,12
+87810,118089,2010-09-22,House,"Reported With Recommendation With Substitute H-1",12,0,0,0,12
+87811,118105,2010-09-22,House,"Reported With Recommendation With Substitute H-1",10,2,0,0,12
+87812,118116,2010-04-29,House,"Reported With Recommendation With Substitute H-3",9,4,0,0,13
+87822,118250,2009-06-24,House,"Reported With Recommendation Without Amendment",5,0,0,0,5
+87822,118251,2010-01-21,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+87827,118303,2010-09-22,House,"Reported With Recommendation For Referral To Committee On Military And Veterans Affairs And Homeland Security",11,0,0,0,11
+87837,118403,2010-05-27,Senate,"Reported Favorably With Substitute S-3",5,0,0,0,5
+87840,118441,2009-08-19,House,"Reported With Recommendation With Substitute H-2",15,0,0,0,15
+87840,118442,2009-11-12,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+87841,118448,2009-08-19,House,"Reported With Recommendation With Substitute H-1",15,0,0,0,15
+87841,118449,2009-11-12,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+87842,118455,2009-08-19,House,"Reported With Recommendation Without Amendment(s)",15,0,0,0,15
+87842,118456,2009-11-12,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+87843,118462,2009-08-19,House,"Reported With Recommendation Without Amendment(s)",15,0,0,0,15
+87843,118463,2009-11-12,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+87846,118477,2009-07-14,House,"Reported With Recommendation Without Amendment(s)",8,0,0,0,8
+87846,118478,2009-10-07,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+87868,118792,2009-06-23,House,"Reported With Recommendation With Substitute H-2",9,0,0,0,9
+87868,118793,2010-03-09,House,"Reported With Recommendation With Substitute H-4",7,3,0,0,10
+87869,118804,2009-06-23,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+87869,118805,2010-02-23,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+87871,118821,2009-08-19,House,"Reported With Recommendation With Substitute H-2",11,5,0,0,16
+87880,118956,2010-03-23,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+87888,119050,2009-06-09,House,"Reported With Recommendation Without Amendment(s)",11,0,0,0,11
+87889,119056,2009-06-09,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+87903,119223,2009-06-23,House,"Reported With Recommendation With Substitute H-1",10,0,0,0,10
+87909,119292,2009-06-23,House,"Reported With Recommendation Without Amendment(s)",8,0,0,0,8
+87923,119436,2009-10-06,Senate,"Reported Favorably With Substitute S-1",17,0,0,0,17
+87924,119444,2009-10-06,Senate,"Reported Favorably With Substitute S-2",17,0,0,0,17
+87937,119591,2009-06-17,House,"Reported With Recommendation Without Amendment(s)",11,0,0,0,11
+87938,119601,2009-06-16,House,"Reported With Recommendation Without Amendment(s)",11,0,0,0,11
+87938,119602,2009-12-10,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+87939,119610,2009-06-23,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+87940,119615,2009-06-23,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+87942,119629,2009-12-08,House,"Reported With Recommendation With Substitute H-2",16,2,0,0,18
+87950,119758,2009-06-24,House,"Reported With Recommendation Without Amendment(s)",11,0,0,0,11
+87951,119768,2009-06-24,House,"Reported With Recommendation Without Amendment(s)",11,0,0,0,11
+87951,119769,2009-09-30,Senate,"Reported Favorably With Substitute S-2",3,1,0,0,4
+87956,119862,2009-12-08,House,"Reported With Recommendation Without Amendment",16,0,0,0,16
+87971,120020,2009-10-08,Senate,"Reported Favorably Without Amendment",16,2,0,0,18
+87978,120102,2009-08-04,House,"Reported With Recommendation With Substitute H-1",7,1,0,0,8
+87979,120123,2009-08-04,House,"Reported With Recommendation With Substitute H-1",7,1,0,0,8
+87992,120239,2009-12-15,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+87995,120279,2009-08-19,House,"Reported With Recommendation With Substitute H-1",11,4,0,0,15
+87996,120287,2009-08-19,House,"Reported With Recommendation With Substitute H-2",11,5,0,0,16
+87997,120323,2009-08-19,House,"Reported With Recommendation With Substitute H-3",11,5,0,0,16
+87998,120338,2009-08-19,House,"Reported With Recommendation With Substitute H-2",9,5,0,0,14
+87999,120350,2009-08-19,House,"Reported With Recommendation With Substitute H-2",10,5,0,0,15
+88000,120353,2009-08-19,House,"Reported With Recommendation Without Amendment(s)",11,5,0,0,16
+88001,120366,2009-08-19,House,"Reported With Recommendation With Substitute H-1",11,5,0,0,16
+88002,120373,2009-08-19,House,"Reported With Recommendation With Substitute H-1",11,5,0,0,16
+88048,121038,2009-08-26,House,"Reported With Recommendation With Substitute H-1",6,4,0,0,10
+88049,121068,2010-09-21,Senate,"Reported Favorably With Substitute S-1",6,0,0,0,6
+88050,121096,2010-09-21,Senate,"Reported Favorably With Substitute S-2",6,0,0,0,6
+88051,121119,2010-03-02,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+88052,121152,2010-03-02,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+88058,121256,2009-10-06,Senate,"Reported Favorably Without Amendment",17,1,0,0,18
+88085,121558,2009-09-10,House,"Reported With Recommendation Without Amendment(s)",15,0,0,0,15
+88086,121575,2009-09-10,House,"Reported With Recommendation With Substitute H-3",15,0,0,0,15
+88086,121576,2009-11-12,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+88092,121681,2010-06-01,Senate,"Reported Favorably Without Amendment",17,0,0,0,17
+88093,121688,2010-03-10,House,"Reported With Recommendation With Substitute H-1",5,1,0,0,6
+88094,121705,2010-03-10,House,"Reported With Recommendation With Substitute H-1",6,0,0,0,6
+88095,121732,2010-03-10,House,"Reported With Recommendation With Substitute H-1",5,0,0,0,5
+88096,121752,2009-10-08,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+88097,121758,2009-10-08,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+88122,122182,2010-04-22,House,"Reported With Recommendation With Substitute H-1",10,3,0,0,13
+88124,122230,2010-05-19,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+88125,122247,2010-04-14,Senate,"Reported Favorably With Substitute S-1",6,0,0,0,6
+88126,122261,2009-08-26,House,"Reported With Recommendation Without Amendment(s)",11,0,0,0,11
+88130,122311,2010-02-11,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+88131,122335,2010-06-09,House,"Reported With Recommendation With Substitute H-2",11,0,0,0,11
+88131,122336,2010-07-01,Senate,"Reported Favorably Without Amendment",18,0,0,0,18
+88147,122538,2009-12-16,House,"Reported With Recommendation Without Amendment",6,3,0,0,9
+88149,122572,2009-09-09,House,"Reported With Recommendation Without Amendment(s)",9,0,0,0,9
+88150,122599,2009-09-09,House,"Reported With Recommendation Without Amendment(s)",9,0,0,0,9
+88153,122622,2009-10-27,House,"Reported With Recommendation With Substitute H-2",9,1,0,0,10
+88154,122642,2009-10-27,House,"Reported With Recommendation With Substitute H-1",9,1,0,0,10
+88158,122684,2010-09-22,Senate,"Reported Favorably Without Amendment",17,0,0,0,17
+88161,122707,2010-05-04,House,"Reported With Recommendation For Referral To Committee On Judiciary",14,0,0,0,14
+88162,122725,2009-09-09,House,"Reported With Recommendation Without Amendment(s)",9,0,0,0,9
+88164,122782,2010-05-06,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+88174,122875,2010-02-04,House,"Reported With Recommendation With Substitute H-3",7,0,0,0,7
+88214,123353,2009-12-15,House,"Reported With Recommendation With Amendment(s)",13,0,0,0,13
+88216,123368,2010-07-01,House,"Reported With Recommendation Without Amendment",7,1,0,0,8
+88217,123386,2010-07-01,House,"Reported With Recommendation Without Amendment",7,1,0,0,8
+88218,123396,2010-07-01,House,"Reported With Recommendation Without Amendment",7,1,0,0,8
+88231,123575,2009-12-03,House,"Reported With Recommendation With Substitute H-4",6,3,0,0,9
+88231,123576,2009-12-10,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+88245,123749,2010-03-09,Senate,"Reported Favorably With Substitute S-1",16,0,0,0,16
+88254,123871,2010-01-14,Senate,"Reported Favorably With Substitute S-1",17,0,0,0,17
+88255,123888,2010-01-19,Senate,"Reported Favorably With Substitute S-1",16,0,0,0,16
+88256,123900,2010-03-25,Senate,"Reported Favorably Without Amendment",10,7,0,0,17
+88257,123910,2010-05-14,Senate,"Reported Favorably Without Amendment",17,0,0,0,17
+88258,123927,2010-04-22,Senate,"Reported Favorably With Substitute S-1",18,0,0,0,18
+88260,123955,2010-09-21,Senate,"Reported Favorably With Substitute S-6",17,0,0,0,17
+88312,124544,2009-12-15,House,"Reported With Recommendation With Substitute H-1",10,1,0,0,11
+88320,124633,2009-11-04,House,"Reported With Recommendation With Substitute H-2",9,0,0,0,9
+88320,124634,2009-12-17,Senate,"Reported Favorably With Substitute S-2",6,0,0,0,6
+88321,124641,2009-10-27,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+88322,124651,2009-10-27,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+88323,124656,2009-10-27,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+88324,124665,2009-10-27,House,"Reported With Recommendation With Substitute H-1",10,0,0,0,10
+88324,124666,2010-09-15,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+88330,124736,2009-10-21,House,"Reported With Recommendation With Substitute H-2",6,0,0,0,6
+88330,124737,2009-12-10,Senate,"Reported Favorably With Substitute S-2",3,0,0,0,3
+88332,124756,2009-12-10,House,"Reported With Recommendation With Substitute H-3",9,0,0,0,9
+88332,124757,2010-03-09,Senate,"Reported Favorably With Substitute S-2",3,0,0,0,3
+88347,124977,2009-10-13,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+88348,125025,2009-10-13,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+88349,125033,2009-10-13,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+88352,125056,2009-11-04,House,"Reported With Recommendation Without Amendment(s)",8,0,0,0,8
+88352,125057,2009-12-17,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+88353,125077,2009-11-04,House,"Reported With Recommendation Without Amendment(s)",8,0,0,0,8
+88353,125078,2009-12-17,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+88354,125089,2009-11-04,House,"Reported With Recommendation With Substitute H-1",7,0,0,0,7
+88354,125090,2009-12-17,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+88355,125106,2009-11-04,House,"Reported With Recommendation With Substitute H-1",7,0,0,0,7
+88355,125107,2009-12-17,Senate,"Reported Favorably With Substitute S-1",6,0,0,0,6
+88359,125165,2009-10-14,House,"Reported With Recommendation Without Amendment(s)",6,1,0,0,7
+88365,125257,2009-10-21,House,"Reported With Recommendation Without Amendment(s)",9,0,0,0,9
+88365,125258,2009-11-12,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+88371,125317,2009-10-27,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+88371,125320,2010-09-15,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+88376,125372,2009-10-27,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+88381,125431,2010-02-11,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+88399,125669,2009-12-02,House,"Reported With Recommendation Without Amendment",14,0,0,0,14
+88401,125700,2010-01-21,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+88402,125707,2010-01-21,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+88403,125721,2010-01-21,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+88404,125742,2010-01-21,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+88405,125755,2010-01-21,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+88406,125779,2009-11-04,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+88406,125780,2010-03-17,Senate,"Reported Favorably With Substitute S-3",4,0,0,0,4
+88411,125861,2010-02-11,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+88417,125919,2010-11-10,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+88418,125951,2009-12-01,House,"Reported With Recommendation Without Amendment",7,0,0,0,7
+88435,126164,2009-12-17,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+88450,126333,2010-09-22,Senate,"Reported Favorably With Substitute S-1",17,0,0,0,17
+88465,126504,2010-09-21,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+88469,126545,2010-11-10,House,"Reported With Recommendation With Substitute H-6",5,0,0,0,5
+88472,126578,2009-12-02,House,"Reported With Recommendation With Substitute H-1",13,0,0,0,13
+88472,126579,2010-01-19,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+88474,126604,2009-12-08,House,"Reported With Recommendation With Substitute H-2",15,2,0,0,17
+88478,126643,2009-12-03,House,"Reported With Recommendation Without Amendment",9,6,0,0,15
+88479,126650,2009-12-03,House,"Reported With Recommendation Without Amendment",9,6,0,0,15
+88480,126662,2009-12-03,House,"Reported With Recommendation Without Amendment",9,6,0,0,15
+88481,126688,2009-12-03,House,"Reported With Recommendation Without Amendment",9,6,0,0,15
+88482,126693,2009-12-03,House,"Reported With Recommendation Without Amendment",9,6,0,0,15
+88483,126705,2009-12-03,House,"Reported With Recommendation Without Amendment",12,3,0,0,15
+88484,126714,2009-12-03,House,"Reported With Recommendation Without Amendment",9,6,0,0,15
+88485,126733,2009-12-03,House,"Reported With Recommendation Without Amendment",9,6,0,0,15
+88486,126747,2009-12-03,House,"Reported With Recommendation Without Amendment",9,6,0,0,15
+88491,126818,2010-02-16,House,"Reported With Recommendation With Substitute H-2",9,4,0,0,13
+88496,126871,2010-01-21,Senate,"Reported Favorably With Substitute S-1",15,0,0,0,15
+88505,127392,2009-12-15,House,"Reported With Recommendation Without Amendment",16,0,0,0,16
+88508,127427,2010-02-09,Senate,"Reported Favorably Without Amendment",16,0,0,0,16
+88509,127439,2010-02-09,Senate,"Reported Favorably Without Amendment",16,0,0,0,16
+88512,127475,2010-12-01,Senate,"Reported Favorably With Substitute S-1",12,2,0,0,14
+88513,127486,2009-12-10,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+88513,127487,2010-03-09,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+88514,127501,2010-03-02,House,"Reported With Recommendation For Referral To Committee On Great Lakes And Environment",14,0,0,0,14
+88517,127536,2010-09-16,Senate,"Reported Favorably With Substitute S-2",17,0,0,0,17
+88518,127542,2010-12-01,Senate,"Reported Favorably With Substitute S-1",12,2,0,0,14
+88522,127572,2009-12-16,House,"Reported With Recommendation With Substitute H-1",9,1,0,0,10
+88523,127579,2010-03-23,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+88529,127622,2010-07-28,Senate,"Reported Favorably Without Amendment",16,0,0,0,16
+88530,127624,2010-07-28,Senate,"Reported Favorably Without Amendment",16,0,0,0,16
+88531,127629,2010-08-24,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+88532,127640,2010-06-01,House,"Reported With Recommendation With Substitute H-3",8,2,0,0,10
+88537,127691,2009-12-16,House,"Reported With Recommendation With Substitute H-1",7,1,0,0,8
+88567,127996,2010-09-14,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+88568,128006,2010-09-14,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+88575,128031,2010-12-03,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+88582,128063,2010-05-18,House,"Reported With Recommendation With Substitute H-3",6,3,0,0,9
+88583,128069,2010-05-18,House,"Reported With Recommendation With Substitute H-2",6,2,0,0,8
+88584,128071,2010-05-18,House,"Reported With Recommendation Without Amendment",6,2,0,0,8
+88586,128075,2010-09-21,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+88607,128164,2009-03-31,House,"Reported With Recommendation Without Amendment(s)",13,0,0,0,13
+88627,128300,2009-12-10,House,"Reported With Recommendation Without Amendment",13,0,0,0,13
+88629,128311,2010-02-23,House,"Reported With Recommendation With Substitute H-1",16,0,0,0,16
+88647,128428,2009-02-17,House,"Reported With Recommendation Without Amendment(s)",10,0,0,0,10
+88672,128573,2009-03-25,House,"Reported With Recommendation Without Amendment(s)",9,1,0,0,10
+88678,128607,2009-03-26,House,"Reported With Recommendation Without Amendment(s)",16,0,0,0,16
+88710,128783,2009-05-13,House,"Reported With Recommendation Without Amendment(s)",11,0,0,0,11
+88711,128784,2009-04-29,House,"Reported With Recommendation With Substitute H-1",17,0,0,0,17
+88743,128983,2009-12-16,House,"Reported With Recommendation Without Amendment",8,0,0,0,8
+88786,129309,2010-11-10,House,"Reported With Recommendation Without Amendment",13,0,0,0,13
+88817,129663,2009-12-10,House,"Reported With Recommendation Without Amendment",12,0,0,0,12
+88824,129747,2009-01-28,Senate,"Reported Favorably With Substitute S-1",4,3,0,0,7
+88825,129755,2009-08-27,Senate,"Reported Favorably With Substitute S-2",5,1,0,0,6
+88844,129921,2009-02-18,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+88845,129933,2009-02-18,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+88846,129950,2009-02-18,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+88847,129957,2009-02-18,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+88848,129970,2009-05-05,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+88849,129988,2010-03-09,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+88849,129989,2010-05-11,House,"Reported With Recommendation Without Amendment",12,1,0,0,13
+88850,130001,2010-03-09,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+88850,130002,2010-05-11,House,"Reported With Recommendation Without Amendment",12,1,0,0,13
+88851,130010,2010-03-09,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+88851,130011,2010-05-11,House,"Reported With Recommendation Without Amendment",12,1,0,0,13
+88857,130064,2009-11-04,House,"Reported With Recommendation For Referral To Committee On Great Lakes And Environment",8,0,0,0,8
+88858,130076,2009-04-01,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+88861,130104,2009-12-10,Senate,"Reported Favorably With Substitute S-1",4,2,0,0,6
+88870,130193,2009-03-10,Senate,"Reported Favorably Without Amendment",6,1,0,0,7
+88871,130197,2009-06-09,Senate,"Reported Favorably With Substitute S-1",17,0,0,0,17
+88892,130398,2009-03-10,Senate,"Reported Favorably With Substitute S-1",4,3,0,0,7
+88893,130408,2009-01-28,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+88894,130420,2009-01-28,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+88894,130421,2009-07-28,House,"Reported With Recommendation With Substitute H-1",10,0,0,0,10
+88895,130426,2009-01-28,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+88900,130472,2010-08-24,Senate,"Reported Favorably With Substitute S-2",6,0,0,0,6
+88912,130582,2009-02-03,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+88913,130601,2009-02-03,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+88914,130618,2009-02-03,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+88915,130625,2009-02-03,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+88916,130632,2009-01-29,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+88918,130666,2009-08-27,Senate,"Reported Favorably With Substitute S-1",3,1,0,0,4
+88919,130690,2009-03-03,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+88921,130719,2009-02-03,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+88922,130744,2009-02-03,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+88922,130745,2009-11-04,House,"Reported With Recommendation With Substitute H-3",8,0,0,0,8
+88923,130758,2009-02-03,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+88923,130759,2009-11-04,House,"Reported With Recommendation With Substitute H-1",8,0,0,0,8
+88924,130776,2009-02-03,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+88925,130792,2009-02-05,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+88926,130805,2009-02-03,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+88927,130816,2009-02-03,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+88928,130837,2009-02-03,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+88928,130838,2009-11-04,House,"Reported With Recommendation With Substitute H-1",8,0,0,0,8
+88929,130849,2009-02-03,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+88929,130850,2009-11-04,House,"Reported With Recommendation With Substitute H-1",8,0,0,0,8
+88930,130858,2009-02-03,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+88930,130859,2009-11-04,House,"Reported With Recommendation With Substitute H-1",8,0,0,0,8
+88931,130874,2009-03-12,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+88936,130950,2009-05-07,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+88949,131087,2009-02-12,Senate,"Reported Favorably With Substitute S-1",6,0,0,0,6
+88949,131088,2009-12-16,House,"Reported With Recommendation With Substitute H-2",11,0,0,0,11
+88955,131172,2010-03-23,House,"Reported With Recommendation With Substitute H-1",5,1,0,0,6
+88957,131202,2009-03-18,House,"Reported With Recommendation Without Amendment",11,0,0,0,11
+88961,131244,2010-11-10,Senate,"Reported Favorably With Substitute S-3",4,0,0,0,4
+88961,131246,2010-12-01,House,"Reported With Recommendation Without Amendment",7,0,0,0,7
+88964,131271,2009-04-21,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+88965,131286,2009-05-19,Senate,"Reported Favorably With Substitute S-1",5,2,0,0,7
+88968,131318,2009-03-04,Senate,"Reported Favorably Without Amendment",8,0,0,0,8
+88969,131325,2009-03-04,Senate,"Reported Favorably Without Amendment",8,0,0,0,8
+88972,131340,2009-03-25,Senate,"Reported Favorably Without Amendment",8,0,0,0,8
+88973,131351,2009-03-25,Senate,"Reported Favorably With Substitute S-1",8,0,0,0,8
+88974,131367,2009-03-10,Senate,"Reported Favorably With Substitute S-2",7,0,0,0,7
+88986,131485,2009-04-22,Senate,"Reported Favorably Without Amendment",8,0,0,0,8
+88987,131501,2009-03-31,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+88987,131502,2009-09-15,House,"Reported With Recommendation Without Amendment(s)",10,0,0,0,10
+89008,131722,2010-03-02,Senate,"Reported Favorably With Substitute S-1",6,0,0,0,6
+89008,131723,2010-05-18,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+89009,131746,2009-03-12,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+89011,131780,2009-03-04,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+89013,131800,2009-03-03,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+89014,131804,2009-03-10,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+89015,131814,2010-01-19,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+89017,131828,2009-04-30,Senate,"Reported Favorably Without Amendment",16,0,0,0,16
+89018,131846,2009-02-12,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+89018,131847,2009-04-02,House,"Reported With Recommendation With Substitute H-1",7,0,0,0,7
+89019,131852,2009-02-12,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+89021,131867,2010-04-27,Senate,"Reported Favorably With Substitute S-2",4,3,0,0,7
+89024,131908,2009-03-10,Senate,"Reported Favorably With Substitute S-2",6,0,0,0,6
+89025,131915,2009-02-12,Senate,"Reported Favorably With Substitute S-1",6,0,0,0,6
+89027,131929,2009-06-04,Senate,"Reported Favorably With Substitute S-2",5,0,0,0,5
+89035,132048,2010-11-10,Senate,"Reported Favorably With Substitute S-3",4,0,0,0,4
+89038,132085,2010-04-20,House,"Reported With Recommendation With Substitute H-1",8,0,0,0,8
+89039,132119,2009-05-05,Senate,"Reported Favorably With Substitute S-1",6,0,0,0,6
+89042,132159,2009-06-09,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+89050,132247,2009-03-12,Senate,"Reported Favorably With Substitute S-1",3,0,0,0,3
+89050,132248,2009-03-25,House,"Reported With Recommendation Without Amendment(s)",9,0,0,0,9
+89060,132347,2009-04-01,Senate,"Reported Favorably With Substitute S-1",18,0,0,0,18
+89068,132404,2009-04-01,Senate,"Reported Favorably With Substitute S-1",18,0,0,0,18
+89070,132442,2009-04-01,Senate,"Reported Favorably With Substitute S-1",18,0,0,0,18
+89071,132456,2009-04-01,Senate,"Reported Favorably With Substitute S-1",16,1,0,0,17
+89072,132466,2009-04-01,Senate,"Reported Favorably With Substitute S-1",18,0,0,0,18
+89073,132490,2009-04-01,Senate,"Reported Favorably With Substitute S-1",17,0,0,0,17
+89074,132497,2009-06-23,Senate,"Reported Favorably With Substitute S-1",11,6,0,0,17
+89074,132498,2010-02-09,Senate,"Reported Favorably With Substitute S-3",16,0,0,0,16
+89074,132499,2010-03-03,House,"Reported With Recommendation Without Amendment",27,0,0,0,27
+89076,132520,2009-04-01,Senate,"Reported Favorably With Substitute S-1",18,0,0,0,18
+89077,132529,2009-04-01,Senate,"Reported Favorably With Substitute S-1",18,0,0,0,18
+89080,132566,2009-03-12,Senate,"Reported Favorably With Substitute S-2",3,0,0,0,3
+89081,132577,2009-03-12,Senate,"Reported Favorably With Substitute S-2",3,0,0,0,3
+89082,132590,2009-03-12,Senate,"Reported Favorably Without Amendment",2,1,0,0,3
+89083,132597,2009-03-12,Senate,"Reported Favorably With Substitute S-1",3,0,0,0,3
+89084,132605,2009-03-12,Senate,"Reported Favorably With Substitute S-1",3,0,0,0,3
+89087,132647,2009-05-07,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+89087,132648,2009-06-03,House,"Reported With Recommendation Without Amendment(s)",8,0,0,0,8
+89105,132827,2009-04-21,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+89106,132837,2009-10-20,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+89113,132939,2009-05-07,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+89116,132986,2009-05-07,Senate,"Reported Favorably With Substitute S-2",4,0,0,0,4
+89118,133009,2009-05-07,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+89119,133027,2009-05-07,Senate,"Reported Favorably With Substitute S-2",4,0,0,0,4
+89136,133201,2009-04-02,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+89144,133279,2009-03-24,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+89145,133292,2009-03-12,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+89146,133305,2009-03-12,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+89148,133320,2009-05-27,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+89155,133369,2010-03-11,Senate,"Reported Favorably With Substitute S-4",7,0,0,0,7
+89157,133393,2009-06-02,Senate,"Reported Favorably With Substitute S-1",17,0,0,0,17
+89163,133434,2009-08-27,Senate,"Reported Favorably With Substitute S-2",5,1,0,0,6
+89169,133489,2009-03-19,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+89172,133515,2009-03-31,Senate,"Reported Favorably With Substitute S-1",3,0,0,0,3
+89172,133516,2009-06-02,House,"Reported With Recommendation With Substitute H-1",10,0,0,0,10
+89173,133524,2009-12-17,Senate,"Reported Favorably With Substitute S-3",6,0,0,0,6
+89181,133593,2009-05-07,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+89184,133629,2009-04-21,Senate,"Reported Favorably Without Amendment",6,1,0,0,7
+89185,133640,2009-03-26,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+89185,133641,2009-04-21,House,"Reported With Recommendation Without Amendment(s)",8,0,0,0,8
+89186,133650,2009-03-26,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+89186,133651,2009-04-21,House,"Reported With Recommendation Without Amendment(s)",8,0,0,0,8
+89188,133674,2009-05-19,Senate,"Reported Favorably With Recommendation For Referral To Committee On Appropriations With Substitute S-1",6,0,0,0,6
+89189,133681,2009-05-19,Senate,"Reported Favorably With Recommendation For Referral To Committee On Appropriations",6,0,0,0,6
+89190,133701,2009-04-21,Senate,"Reported Favorably Without Amendment",6,1,0,0,7
+89194,133721,2009-06-04,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+89197,133740,2009-05-12,House,"Reported With Recommendation Without Amendment",8,1,0,0,9
+89198,133744,2009-05-12,House,"Reported With Recommendation Without Amendment",8,1,0,0,9
+89202,133774,2009-03-19,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+89202,133775,2009-03-26,House,"Reported With Recommendation Without Amendment(s)",7,0,0,0,7
+89203,133778,2009-03-19,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+89203,133779,2009-03-26,House,"Reported With Recommendation Without Amendment(s)",7,0,0,0,7
+89204,133786,2009-03-19,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+89204,133787,2009-03-26,House,"Reported With Recommendation Without Amendment(s)",8,0,0,0,8
+89205,133791,2010-07-01,Senate,"Reported Favorably With Substitute S-2",18,0,0,0,18
+89206,133800,2009-04-01,Senate,"Reported Favorably Without Amendment",8,0,0,0,8
+89207,133806,2009-04-01,Senate,"Reported Favorably Without Amendment",8,0,0,0,8
+89208,133815,2009-04-02,Senate,"Reported Favorably With Substitute S-1",8,0,0,0,8
+89209,133826,2009-04-01,Senate,"Reported Favorably Without Amendment",8,0,0,0,8
+89210,133845,2009-04-01,Senate,"Reported Favorably Without Amendment",8,0,0,0,8
+89218,133901,2010-03-16,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+89218,133902,2010-11-09,House,"Reported With Recommendation Without Amendment",6,0,0,0,6
+89222,133937,2009-03-25,Senate,"Reported Favorably With Substitute S-1",8,0,0,0,8
+89223,133944,2009-03-25,Senate,"Reported Favorably Without Amendment",8,0,0,0,8
+89224,133950,2009-03-25,Senate,"Reported Favorably Without Amendment",8,0,0,0,8
+89226,133967,2010-09-21,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+89232,134011,2009-03-31,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+89232,134012,2009-05-05,House,"Reported With Recommendation Without Amendment(s)",11,0,0,0,11
+89234,134029,2009-04-02,Senate,"Reported Favorably With Substitute S-1",8,0,0,0,8
+89234,134030,2009-06-11,House,"Reported With Recommendation Without Amendment(s)",10,0,0,0,10
+89235,134041,2009-04-01,Senate,"Reported Favorably Without Amendment",8,0,0,0,8
+89235,134042,2009-06-11,House,"Reported With Recommendation Without Amendment(s)",10,0,0,0,10
+89239,134104,2009-05-12,Senate,"Reported Favorably Without Amendment",17,0,0,0,17
+89241,134134,2009-05-14,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+89241,134135,2009-10-07,House,"Reported With Recommendation Without Amendment(s)",8,0,0,0,8
+89242,134142,2009-05-05,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+89249,134193,2009-05-07,Senate,"Reported Favorably With Substitute S-1",4,1,0,0,5
+89251,134202,2009-06-11,Senate,"Reported Favorably With Substitute S-2",4,0,0,0,4
+89251,134203,2009-07-28,House,"Reported With Recommendation Without Amendment(s)",10,0,0,0,10
+89255,134217,2009-05-05,Senate,"Reported Favorably With Substitute S-1",6,0,0,0,6
+89257,134242,2009-05-19,Senate,"Reported Favorably With Substitute S-1",4,3,0,0,7
+89258,134246,2009-06-09,Senate,"Reported Favorably Without Amendment",4,2,0,0,6
+89259,134253,2009-06-09,Senate,"Reported Favorably Without Amendment",4,2,0,0,6
+89260,134258,2010-11-10,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+89261,134262,2009-06-11,Senate,"Reported Favorably Without Amendment",4,2,0,0,6
+89262,134271,2009-06-11,Senate,"Reported Favorably Without Amendment",4,2,0,0,6
+89272,134362,2009-06-04,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+89285,134448,2009-05-19,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+89286,134461,2009-05-19,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+89287,134462,2009-05-19,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+89288,134466,2009-05-19,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+89289,134471,2009-04-29,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+89293,134493,2009-06-09,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+89301,134553,2009-05-13,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+89303,134569,2009-05-12,Senate,"Reported Favorably Without Amendment",18,0,0,0,18
+89303,134570,2009-07-28,House,"Reported With Recommendation Without Amendment(s)",9,0,0,0,9
+89306,134587,2009-05-26,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+89306,134588,2009-06-23,House,"Reported With Recommendation Without Amendment(s)",9,0,0,0,9
+89307,134605,2009-08-18,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+89315,134652,2010-03-02,Senate,"Reported Favorably With Substitute S-1",6,0,0,0,6
+89317,134661,2009-05-12,Senate,"Reported Favorably With Substitute S-2",18,0,0,0,18
+89318,134671,2009-05-12,Senate,"Reported Favorably Without Amendment",18,0,0,0,18
+89323,134707,2009-10-20,Senate,"Reported Favorably With Substitute S-1",6,0,0,0,6
+89324,134710,2009-10-20,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+89325,134719,2009-05-07,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+89326,134788,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89327,134801,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89328,134820,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89329,134831,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89330,134846,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89331,134865,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89332,134883,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89333,134910,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89334,134923,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89335,134939,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89336,134948,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89337,134961,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89338,134981,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89339,134989,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89340,134996,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89341,135000,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89342,135022,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89343,135042,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89344,135049,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89345,135094,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89346,135109,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89347,135119,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89348,135135,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89349,135152,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89350,135167,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89351,135176,2009-06-16,Senate,"Reported Favorably With Substitute S-1",6,0,0,0,6
+89362,135325,2009-05-07,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+89363,135337,2009-05-12,Senate,"Reported Favorably Without Amendment",18,0,0,0,18
+89376,106085,2009-09-21,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+89377,106098,2009-10-20,House,"Reported With Recommendation Without Amendment(s)",13,1,0,0,14
+89378,106103,2009-09-21,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+89386,106185,2009-10-20,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+89386,106187,2009-12-02,House,"Reported With Recommendation Without Amendment",13,0,0,0,13
+89391,106240,2010-01-21,Senate,"Reported Favorably With Substitute S-1",3,0,0,0,3
+89392,106262,2010-01-21,Senate,"Reported Favorably With Substitute S-1",3,0,0,0,3
+89397,106314,2010-01-21,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+89401,106351,2009-12-17,Senate,"Reported Favorably With Substitute S-5",6,0,0,0,6
+89401,106352,2010-01-26,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+89406,106410,2009-06-02,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+89406,106411,2009-06-18,House,"Reported With Recommendation Without Amendment(s)",6,0,0,0,6
+89408,106438,2009-05-27,Senate,"Reported Favorably With Substitute S-1",3,1,0,0,4
+89409,106448,2009-05-27,Senate,"Reported Favorably With Substitute S-1",3,1,0,0,4
+89410,106462,2009-05-27,Senate,"Reported Favorably With Substitute S-1",3,1,0,0,4
+89411,106476,2009-05-27,Senate,"Reported Favorably With Substitute S-1",3,1,0,0,4
+89419,106554,2009-06-09,Senate,"Reported Favorably With Substitute S-1",17,0,0,0,17
+89431,106842,2009-10-20,Senate,"Reported Favorably With Substitute S-1",18,0,0,0,18
+89433,106861,2009-11-12,Senate,"Reported Favorably With Substitute S-1",4,1,0,0,5
+89442,106992,2010-02-23,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+89442,106993,2010-03-09,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+89447,107073,2009-06-11,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+89447,107074,2009-06-17,House,"Reported With Recommendation Without Amendment(s)",8,0,0,0,8
+89464,107208,2009-09-21,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+89470,107257,2010-01-26,Senate,"Reported Favorably With Substitute S-4",4,2,0,0,6
+89471,107268,2010-01-26,Senate,"Reported Favorably With Substitute S-2",5,2,0,0,7
+89472,107273,2010-01-26,Senate,"Reported Favorably With Substitute S-3",5,2,0,0,7
+89473,107284,2010-01-26,Senate,"Reported Favorably With Substitute S-2",5,2,0,0,7
+89474,107291,2010-01-26,Senate,"Reported Favorably Without Amendment",5,2,0,0,7
+89475,107301,2010-01-26,Senate,"Reported Favorably Without Amendment",5,2,0,0,7
+89494,107509,2009-09-21,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+89497,107537,2009-08-18,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+89498,107557,2009-08-18,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+89499,107564,2009-08-18,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+89500,107574,2009-08-18,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+89501,107583,2009-08-18,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+89502,107598,2009-08-18,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+89515,107767,2009-12-10,Senate,"Reported Favorably With Substitute S-1",3,2,0,0,5
+89516,107790,2009-12-10,Senate,"Reported Favorably Without Amendment",3,2,0,0,5
+89517,107811,2009-12-10,Senate,"Reported Favorably With Substitute S-3",5,0,0,0,5
+89518,107826,2009-12-10,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+89521,107859,2009-08-18,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+89523,107888,2009-08-05,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+89524,107908,2009-08-05,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+89526,107929,2009-08-05,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+89529,107967,2009-08-05,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+89530,107975,2009-08-05,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+89533,108010,2009-08-05,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+89535,108036,2009-08-05,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+89536,108055,2009-10-28,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+89538,108077,2010-11-09,House,"Reported With Recommendation Without Amendment",6,0,0,0,6
+89542,108126,2009-10-21,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+89543,108136,2009-10-21,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+89544,108148,2010-02-11,Senate,"Reported Favorably With Substitute S-2",5,0,0,0,5
+89545,108156,2009-11-10,House,"Reported With Recommendation With Substitute H-2",15,0,0,0,15
+89546,108166,2010-02-02,Senate,"Reported Favorably With Substitute S-1",3,0,0,0,3
+89546,108167,2010-05-05,House,"Reported With Recommendation Without Amendment",7,0,0,0,7
+89547,108177,2010-02-02,Senate,"Reported Favorably With Substitute S-1",3,0,0,0,3
+89547,108178,2010-05-05,House,"Reported With Recommendation Without Amendment",8,0,0,0,8
+89550,108216,2010-02-25,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+89554,108258,2010-06-01,Senate,"Reported Favorably With Substitute S-3",3,0,0,0,3
+89567,108393,2009-10-20,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+89567,108394,2009-12-03,House,"Reported With Recommendation Without Amendment",13,0,0,0,13
+89572,108449,2010-12-02,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+89573,108473,2009-12-02,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+89583,108576,2009-10-15,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+89584,108585,2009-10-15,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+89585,108595,2009-10-15,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+89586,108611,2009-10-15,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+89587,108614,2009-10-15,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+89588,108626,2009-10-15,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+89589,108630,2009-10-15,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+89590,108639,2009-10-15,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+89596,108706,2009-08-27,Senate,"Reported Favorably With Substitute S-4",7,0,0,0,7
+89597,108707,2009-08-27,Senate,"Reported Favorably With Substitute S-1",6,0,0,0,6
+89597,108708,2009-09-23,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+89599,108721,2009-10-06,Senate,"Reported Favorably With Substitute S-1",18,0,0,0,18
+89600,108737,2009-09-10,Senate,"Reported Favorably With Substitute S-1",3,1,0,0,4
+89600,108738,2009-09-23,House,"Reported With Recommendation Without Amendment(s)",10,0,0,0,10
+89609,108819,2009-10-20,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+89614,108864,2010-05-18,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+89615,108880,2009-11-18,Senate,"Reported Favorably With Substitute S-1",3,0,0,0,3
+89616,108893,2009-11-18,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+89617,108909,2010-02-02,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+89618,108918,2010-02-02,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+89619,108927,2009-10-13,Senate,"Reported Favorably With Substitute S-1",4,1,0,0,5
+89619,108928,2010-06-30,House,"Reported With Recommendation With Substitute H-1",16,0,0,0,16
+89630,109063,2009-11-12,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89631,109080,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89632,109088,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89633,109092,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89634,109095,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89635,109110,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89636,109131,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89637,109137,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89638,109149,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89639,109163,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89640,109178,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89641,109185,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89642,109197,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89643,109202,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89644,109225,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89645,109251,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89646,109262,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89647,109267,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89648,109292,2010-05-06,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+89675,109578,2009-09-24,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+89680,109645,2009-12-02,Senate,"Reported Favorably With Substitute S-3",5,0,0,0,5
+89683,109677,2010-02-10,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+89705,109883,2009-10-28,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+89705,109884,2010-06-30,House,"Reported With Recommendation Without Amendment",8,2,0,0,10
+89706,109894,2010-01-19,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+89710,109957,2009-12-10,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+89712,109981,2009-10-13,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+89712,109982,2010-06-30,House,"Reported With Recommendation With Substitute H-1",16,0,0,0,16
+89714,110008,2009-11-18,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+89714,110009,2010-02-24,House,"Reported With Recommendation With Substitute H-3",5,1,0,0,6
+89715,110015,2009-11-18,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+89715,110016,2010-02-24,House,"Reported With Recommendation With Substitute H-1",5,2,0,0,7
+89716,110028,2009-11-18,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+89716,110029,2010-02-24,House,"Reported With Recommendation With Substitute H-1",5,2,0,0,7
+89724,110145,2009-11-12,Senate,"Reported Favorably With Substitute S-2",5,0,0,0,5
+89724,110146,2009-12-10,House,"Reported With Recommendation Without Amendment",13,0,0,0,13
+89731,110259,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89732,110267,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89733,110281,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89734,110291,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89735,110306,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89736,110318,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89737,110325,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89738,110339,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89739,110355,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89740,110369,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89741,110389,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89742,110399,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89748,110503,2009-11-18,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89749,110517,2009-12-02,Senate,"Reported Favorably With Substitute S-3",5,0,0,0,5
+89749,110518,2009-12-10,House,"Reported With Recommendation With Substitute H-3",17,0,0,0,17
+89750,110520,2009-12-02,Senate,"Reported Favorably With Substitute S-5",5,0,0,0,5
+89751,110541,2009-12-19,Senate,"Reported Favorably With Substitute S-2",12,5,0,0,17
+89752,110566,2010-05-11,Senate,"Reported Favorably With Substitute S-1",14,0,0,0,14
+89752,110567,2010-05-25,House,"Reported With Recommendation With Substitute H-1",17,3,0,0,20
+89758,110659,2009-12-08,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+89765,110757,2010-02-02,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+89775,110936,2009-11-18,Senate,"Reported Favorably With Substitute S-1",3,0,0,0,3
+89776,110953,2009-11-18,Senate,"Reported Favorably With Substitute S-1",3,0,0,0,3
+89777,110960,2009-11-18,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+89778,110984,2009-11-18,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+89779,111017,2009-11-04,Senate,"Reported Favorably Without Amendment",10,5,0,0,15
+89780,111024,2009-11-04,Senate,"Reported Favorably Without Amendment",10,5,0,0,15
+89781,111033,2009-11-04,Senate,"Reported Favorably Without Amendment",10,5,0,0,15
+89782,111046,2009-11-04,Senate,"Reported Favorably Without Amendment",10,5,0,0,15
+89786,111144,2010-04-20,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+89788,111167,2010-07-21,Senate,"Reported Favorably With Substitute S-2",16,0,0,0,16
+89789,111172,2009-12-02,Senate,"Reported Favorably With Substitute S-4",5,0,0,0,5
+89792,111229,2009-12-08,House,"Reported With Recommendation With Substitute H-2",16,2,0,0,18
+89794,111245,2009-12-08,House,"Reported With Recommendation Without Amendment",16,0,0,0,16
+89795,111261,2009-12-08,House,"Reported With Recommendation Without Amendment",16,0,0,0,16
+89796,111266,2009-12-08,House,"Reported With Recommendation Without Amendment",16,0,0,0,16
+89797,111288,2009-12-08,House,"Reported With Recommendation Without Amendment",16,0,0,0,16
+89802,111375,2010-05-27,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+89803,111394,2010-05-27,Senate,"Reported Favorably With Substitute S-1",3,0,0,0,3
+89804,111402,2010-02-16,House,"Reported With Recommendation Without Amendment",11,0,0,0,11
+89805,111424,2009-12-02,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+89806,111433,2009-12-02,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+89823,111634,2009-12-10,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+89825,111672,2010-01-20,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+89829,111720,2009-12-10,Senate,"Reported Favorably With Substitute S-1",3,0,0,0,3
+89830,111743,2009-12-10,Senate,"Reported Favorably With Substitute S-1*",3,0,0,0,3
+89837,111839,2010-02-23,Senate,"Reported Favorably With Substitute S-1",3,0,0,0,3
+89837,111840,2010-03-23,House,"Reported With Recommendation With Substitute H-1",10,0,0,0,10
+89839,111869,2010-05-27,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+89840,111876,2010-05-27,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+89841,111888,2010-05-27,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+89859,112113,2010-09-16,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+89861,112139,2010-05-19,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+89862,112161,2010-05-19,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+89869,112248,2010-02-25,House,"Reported With Recommendation Without Amendment",11,2,0,0,13
+89870,112262,2010-04-15,Senate,"Reported Favorably With Substitute S-6",4,2,0,0,6
+89871,112276,2010-04-15,Senate,"Reported Favorably With Substitute S-1",6,0,0,0,6
+89883,112459,2009-08-19,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+89884,112471,2009-03-12,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+89885,112476,2009-03-24,House,"Reported With Recommendation Without Amendment(s)",6,0,0,0,6
+89897,112664,2009-08-27,Senate,"Reported Favorably Without Amendment",3,1,0,0,4
+89898,112673,2010-01-21,Senate,"Reported Favorably Without Amendment",14,0,0,0,14
+89902,112739,2009-11-12,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89903,112756,2009-11-12,Senate,"Reported Favorably Without Amendment",11,7,0,0,18
+89907,112786,2009-12-10,House,"Reported With Recommendation Without Amendment",13,0,0,0,13
+89908,112810,2010-09-23,Senate,"Reported Favorably Without Amendment",5,1,0,0,6
+89927,113054,2009-08-19,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+89931,113092,2009-03-26,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+89937,113158,2010-01-21,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+89949,113316,2009-05-14,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+89951,113350,2009-05-13,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+89964,113523,2009-05-26,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+89998,114022,2009-11-04,Senate,"Reported Favorably Without Amendment",10,5,0,0,15
+90021,114263,2010-01-26,House,"Reported With Recommendation Without Amendment",18,0,0,0,18
+90021,114264,2010-03-09,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+90023,114300,2010-11-10,House,"Reported With Recommendation With Substitute H-2",9,3,0,0,12
+90028,114375,2010-05-27,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+90034,114436,2010-03-24,House,"Reported With Recommendation For Referral To Committee On Judiciary",10,0,0,0,10
+90037,114492,2010-05-04,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+90049,114620,2010-02-23,House,"Reported With Recommendation With Substitute H-1",8,1,0,0,9
+90058,114795,2010-06-15,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+90080,115034,2010-02-24,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+90080,115035,2010-11-10,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+90093,115186,2010-05-06,House,"Reported With Recommendation With Substitute H-1",8,0,0,0,8
+90093,115187,2010-08-19,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+90094,115203,2010-03-03,House,"Reported With Recommendation With Substitute H-2",10,0,0,0,10
+90095,115219,2010-03-03,House,"Reported With Recommendation With Substitute H-1",10,0,0,0,10
+90096,115223,2010-03-03,House,"Reported With Recommendation With Substitute H-1",10,0,0,0,10
+90102,115315,2010-07-21,Senate,"Reported Favorably Without Amendment",17,1,0,0,18
+90103,115327,2010-07-21,Senate,"Reported Favorably Without Amendment",17,1,0,0,18
+90104,115347,2010-07-21,Senate,"Reported Favorably Without Amendment",17,1,0,0,18
+90105,115364,2010-07-21,Senate,"Reported Favorably Without Amendment",17,1,0,0,18
+90106,115374,2010-07-21,Senate,"Reported Favorably Without Amendment",17,1,0,0,18
+90107,115393,2010-07-21,Senate,"Reported Favorably Without Amendment",17,1,0,0,18
+90109,115410,2010-06-09,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+90109,115411,2010-07-01,Senate,"Reported Favorably Without Amendment",18,0,0,0,18
+90110,115426,2010-03-10,House,"Reported With Recommendation With Substitute H-1",5,0,0,0,5
+90115,115513,2010-06-09,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+90122,115600,2010-09-16,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+90127,115681,2010-05-13,House,"Reported With Recommendation With Substitute H-2",12,0,0,0,12
+90127,115682,2010-06-17,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+90147,115903,2010-05-11,Senate,"Reported Favorably With Substitute S-1",15,0,0,0,15
+90152,115971,2010-05-14,Senate,"Reported Favorably With Substitute S-1",11,7,0,0,18
+90155,116012,2010-05-11,Senate,"Reported Favorably With Substitute S-1",15,0,0,0,15
+90156,116019,2010-05-14,Senate,"Reported Favorably With Substitute S-1",11,6,0,0,17
+90157,116031,2010-05-14,Senate,"Reported Favorably With Substitute S-1",17,0,0,0,17
+90160,116076,2010-05-19,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+90167,116165,2010-05-26,House,"Reported With Recommendation For Referral To Committee On Judiciary",7,0,0,0,7
+90171,116217,2010-04-22,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+90172,116225,2010-04-22,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+90181,116330,2010-03-09,House,"Reported With Recommendation With Substitute H-2",7,4,0,0,11
+90193,116486,2010-03-17,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+90193,116487,2010-06-17,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+90198,116573,2010-06-22,House,"Reported With Recommendation Without Amendment",8,1,0,0,9
+90203,116628,2010-03-11,House,"Reported With Recommendation With Substitute H-1",8,5,0,0,13
+90206,116648,2010-03-10,House,"Reported With Recommendation Without Amendment",5,0,0,0,5
+90209,116713,2010-03-24,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+90230,117028,2010-09-15,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+90231,117034,2010-09-15,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+90244,117178,2010-07-01,House,"Reported With Recommendation With Substitute H-1",9,1,0,0,10
+90245,117190,2010-07-01,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+90249,117221,2010-06-22,House,"Reported With Recommendation Without Amendment",8,1,0,0,9
+90249,117223,2010-11-09,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+90251,117248,2010-06-22,House,"Reported With Recommendation Without Amendment",7,2,0,0,9
+90251,117249,2010-11-09,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+90260,117371,2010-11-09,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+90261,117378,2010-11-09,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+90263,117410,2010-04-22,House,"Reported With Recommendation With Substitute H-1",9,4,0,0,13
+90270,117511,2010-11-09,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+90271,117522,2010-12-02,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+90272,117536,2010-12-02,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+90279,117661,2010-09-21,Senate,"Reported Favorably With Substitute S-2",6,0,0,0,6
+90280,117675,2010-12-01,Senate,"Reported Favorably Without Amendment",12,2,0,0,14
+90281,117686,2010-12-01,Senate,"Reported Favorably Without Amendment",12,2,0,0,14
+90282,117703,2010-12-01,Senate,"Reported Favorably Without Amendment",12,2,0,0,14
+90283,117711,2010-04-13,House,"Reported With Recommendation Without Amendment",5,1,0,0,6
+90284,117729,2010-04-13,House,"Reported With Recommendation Without Amendment",5,1,0,0,6
+90285,117742,2010-04-13,House,"Reported With Recommendation With Amendment(s)",5,1,0,0,6
+90286,117757,2010-04-13,House,"Reported With Recommendation Without Amendment",5,1,0,0,6
+90287,117761,2010-04-13,House,"Reported With Recommendation Without Amendment",5,1,0,0,6
+90288,117772,2010-04-13,House,"Reported With Recommendation With Substitute H-1",5,1,0,0,6
+90298,117887,2010-11-10,House,"Reported With Recommendation With Substitute H-1",13,2,0,0,15
+90299,117903,2010-11-10,House,"Reported With Recommendation With Substitute H-1",12,2,0,0,14
+90310,118038,2010-09-15,Senate,"Reported Favorably With Substitute S-1",6,0,0,0,6
+90314,118093,2010-07-01,House,"Reported With Recommendation With Substitute H-4",8,3,0,0,11
+90315,118103,2010-07-01,House,"Reported With Recommendation With Substitute H-7",8,3,0,0,11
+90316,118111,2010-04-14,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+90323,118203,2010-04-29,House,"Reported With Recommendation With Substitute H-1",7,0,0,0,7
+90324,118222,2010-04-29,House,"Reported With Recommendation With Substitute H-1",7,0,0,0,7
+90325,118228,2010-06-01,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+90351,118504,2010-04-21,House,"Reported With Recommendation Without Amendment",7,0,0,0,7
+90352,118523,2010-04-27,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+90360,118567,2010-04-20,House,"Reported With Recommendation Without Amendment",8,0,0,0,8
+90370,118634,2010-04-21,House,"Reported With Recommendation Without Amendment",5,3,0,0,8
+90402,118772,2010-02-09,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+90415,118856,2010-02-16,House,"Reported With Recommendation Without Amendment",11,0,0,0,11
+90422,118864,2010-02-10,House,"Reported With Recommendation Without Amendment",11,0,0,0,11
+90455,118978,2010-03-03,House,"Reported With Recommendation Without Amendment",11,0,0,0,11
+90473,119044,2010-04-21,House,"Reported With Recommendation Without Amendment",5,3,0,0,8
+90518,119291,2010-04-27,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+90555,119440,2010-04-21,House,"Reported With Recommendation Without Amendment",11,0,0,0,11
+90582,119599,2010-02-25,House,"Reported With Recommendation Without Amendment",11,0,0,0,11
+90591,119632,2010-01-21,Senate,"Reported Favorably Without Amendment",15,0,0,0,15
+90611,119742,2010-11-16,Senate,"Reported Favorably With Substitute S-1",13,0,0,0,13
+90614,119747,2010-02-02,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+90619,119752,2010-02-10,Senate,"Reported Favorably With Substitute S-3",3,0,0,0,3
+90619,119753,2010-06-17,House,"Reported With Recommendation Without Amendment",6,4,0,0,10
+90624,119786,2010-04-15,Senate,"Reported Favorably With Substitute S-3",4,2,0,0,6
+90627,119792,2010-04-29,Senate,"Reported Favorably With Substitute S-1",4,3,0,0,7
+90636,119851,2010-11-10,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+90640,119882,2010-11-10,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+90641,119890,2010-11-10,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+90644,119906,2010-11-10,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+90646,119914,2010-11-10,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+90650,119926,2010-02-10,Senate,"Reported Favorably With Substitute S-2",3,0,0,0,3
+90653,119932,2010-02-10,Senate,"Reported Favorably With Substitute S-2",3,0,0,0,3
+90668,119997,2010-03-02,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+90671,120014,2010-02-09,Senate,"Reported Favorably With Substitute S-2",10,7,0,0,17
+90678,120028,2010-02-11,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+90681,120043,2010-02-11,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+90683,120059,2010-02-11,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+90685,120078,2010-03-09,Senate,"Reported Favorably Without Amendment",18,0,0,0,18
+90692,120118,2010-03-11,Senate,"Reported Favorably With Substitute S-1",3,0,0,0,3
+90692,120120,2010-06-30,House,"Reported With Recommendation Without Amendment",6,0,0,0,6
+90695,120124,2010-03-11,Senate,"Reported Favorably With Substitute S-1",3,0,0,0,3
+90695,120125,2010-06-30,House,"Reported With Recommendation Without Amendment",6,0,0,0,6
+90697,120135,2010-03-11,Senate,"Reported Favorably With Substitute S-1",3,0,0,0,3
+90697,120136,2010-06-30,House,"Reported With Recommendation Without Amendment",6,0,0,0,6
+90716,120223,2010-09-23,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+90717,120234,2010-09-23,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+90719,120249,2010-09-23,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+90721,120265,2010-09-23,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+90723,120276,2010-03-11,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+90723,120277,2010-05-04,House,"Reported With Recommendation Without Amendment",15,0,0,0,15
+90725,120288,2010-03-11,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+90727,120312,2010-05-11,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+90730,120326,2010-02-25,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+90731,120344,2010-02-25,Senate,"Reported Favorably With Substitute S-1",3,0,0,0,3
+90734,120354,2010-02-25,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+90746,120465,2010-05-27,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+90763,120581,2010-02-25,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+90768,120634,2010-04-21,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+90770,120644,2010-03-03,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+90770,120645,2010-05-18,House,"Reported With Recommendation Without Amendment",9,1,0,0,10
+90784,120753,2010-06-15,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+90790,120784,2010-11-10,Senate,"Reported Favorably With Substitute S-2",4,0,0,0,4
+90792,120799,2010-03-23,Senate,"Reported Favorably With Substitute S-1",6,0,0,0,6
+90794,120823,2010-03-23,Senate,"Reported Favorably With Substitute S-1",10,6,0,0,16
+90796,120847,2010-03-23,Senate,"Reported Favorably With Substitute S-1",6,0,0,0,6
+90798,120856,2010-03-23,Senate,"Reported Favorably With Substitute S-1",6,0,0,0,6
+90804,120894,2010-03-23,Senate,"Reported Favorably With Substitute S-1",6,0,0,0,6
+90804,120895,2010-05-25,House,"Reported With Recommendation With Substitute H-1",17,10,0,0,27
+90806,120914,2010-05-19,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+90812,120961,2010-03-23,Senate,"Reported Favorably With Substitute S-1",15,1,0,0,16
+90815,120990,2010-03-23,Senate,"Reported Favorably With Substitute S-1",10,6,0,0,16
+90817,121010,2010-05-14,Senate,"Reported Favorably With Substitute S-1",11,7,0,0,18
+90824,121025,2010-06-22,Senate,"Reported Favorably With Substitute S-1",13,1,0,0,14
+90844,121134,2010-04-22,Senate,"Reported Favorably With Substitute S-1",2,1,0,0,3
+90846,121159,2010-03-23,Senate,"Reported Favorably With Substitute S-3",6,0,0,0,6
+90846,121160,2010-04-15,House,"Reported With Recommendation With Substitute H-1",11,2,0,0,13
+90857,121204,2010-04-22,Senate,"Reported Favorably With Substitute S-1",2,1,0,0,3
+90902,121506,2010-03-17,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+90902,121507,2010-04-27,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+90906,121532,2010-04-14,Senate,"Reported Favorably With Substitute S-1",6,0,0,0,6
+90907,121562,2010-04-14,Senate,"Reported Favorably With Substitute S-3",6,0,0,0,6
+90910,121574,2010-04-14,Senate,"Reported Favorably With Substitute S-3",6,0,0,0,6
+90940,121748,2010-03-23,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+90942,121759,2010-09-15,Senate,"Reported Favorably With Amendment(s)",5,0,0,0,5
+90944,121783,2010-09-15,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+90948,121811,2010-03-25,Senate,"Reported Favorably With Substitute S-5",10,7,0,0,17
+90950,121824,2010-03-25,Senate,"Reported Favorably With Substitute S-6",10,7,0,0,17
+90952,121832,2010-04-20,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+90952,121833,2010-05-11,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+90962,121891,2010-09-23,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+90962,121892,2010-12-01,House,"Reported With Recommendation Without Amendment",7,1,0,0,8
+90965,121911,2010-09-07,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+90965,121912,2010-11-09,House,"Reported With Recommendation Without Amendment",7,1,0,0,8
+90967,121925,2010-06-23,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+90967,121926,2010-11-09,House,"Reported With Recommendation Without Amendment",7,1,0,0,8
+90969,121940,2010-09-23,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+90969,121941,2010-11-09,House,"Reported With Recommendation Without Amendment",8,0,0,0,8
+90971,121949,2010-09-14,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+90974,121959,2010-06-23,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+90974,121960,2010-11-09,House,"Reported With Recommendation Without Amendment",7,1,0,0,8
+90979,122003,2010-04-14,Senate,"Reported Favorably With Substitute S-1",6,0,0,0,6
+90981,122011,2010-06-29,Senate,"Reported Favorably With Substitute S-3",6,0,0,0,6
+90983,122025,2010-06-29,Senate,"Reported Favorably With Substitute S-3",6,0,0,0,6
+90999,122134,2010-06-01,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+91003,122176,2010-05-11,Senate,"Reported Favorably With Substitute S-2",5,0,0,0,5
+91005,122183,2010-05-11,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+91007,122205,2010-05-11,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+91011,122222,2010-05-27,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+91013,122231,2010-05-27,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+91015,122245,2010-05-27,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+91017,122265,2010-05-27,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+91020,122292,2010-12-02,House,"Reported With Recommendation Without Amendment",12,0,0,0,12
+91028,122373,2010-05-27,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+91030,122397,2010-09-16,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+91061,122603,2010-09-23,Senate,"Reported Favorably With Substitute S-1",5,1,0,0,6
+91112,122918,2010-03-09,Senate,"Reported Favorably Without Amendment",18,0,0,0,18
+91161,123134,2010-04-20,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+95344,123433,2009-02-24,House,"Reported With Recommendation For Referral To Committee On Tax Policy",8,0,0,0,8
+95348,123481,2009-02-24,House,"Reported With Recommendation For Referral To Committee On Tax Policy",8,0,0,0,8
+95386,124016,2009-03-17,Senate,"Reported Favorably With Substitute S-1",4,3,0,0,7
+95389,124060,2010-03-02,Senate,"Reported Favorably With Substitute S-1",4,2,0,0,6
+95394,124133,2010-04-15,Senate,"Reported Favorably With Substitute S-2",4,2,0,0,6
+95412,124414,2010-05-27,Senate,"Reported Favorably Without Amendment",4,3,0,0,7
+95413,124427,2010-05-27,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+115702,124857,2010-09-14,Senate,"Reported Favorably With Substitute S-1",2,0,0,0,2
+115702,124858,2010-11-10,House,"Reported With Recommendation Without Amendment",6,0,0,0,6
+119318,125144,2010-11-10,House,"Reported With Recommendation Without Amendment",6,2,0,0,8
+119322,125207,2010-05-13,House,"Reported With Recommendation Without Amendment",12,0,0,0,12
+119322,125208,2010-06-29,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+119324,125240,2010-06-24,House,"Reported With Recommendation With Substitute H-1",7,0,0,0,7
+119325,125260,2010-06-24,House,"Reported With Recommendation With Substitute H-1",7,0,0,0,7
+119330,125335,2010-06-29,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+119331,125351,2010-06-29,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+119332,125363,2010-05-26,Senate,"Reported Favorably With Substitute S-2",6,0,0,0,6
+119333,125376,2010-05-26,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+119334,125391,2010-05-26,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+119335,125404,2010-05-26,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+119336,125416,2010-05-26,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+130363,125493,2010-06-15,House,"Reported With Recommendation With Substitute H-1",16,0,0,0,16
+132441,125889,2010-05-11,House,"Reported With Recommendation With Substitute H-2",9,2,0,0,11
+132442,125898,2010-11-10,House,"Reported With Recommendation With Substitute H-2",8,2,0,0,10
+132746,126231,2010-06-15,Senate,"Reported Favorably With Substitute S-1",16,0,0,0,16
+132798,126262,2010-05-20,House,"Reported With Recommendation With Substitute H-4",10,5,0,0,15
+132808,126397,2010-06-24,House,"Reported With Recommendation With Substitute H-3",14,0,0,0,14
+132809,126406,2010-06-24,House,"Reported With Recommendation With Substitute H-2",14,0,0,0,14
+190676,126535,2010-06-17,House,"Reported With Recommendation Without Amendment",6,4,0,0,10
+190735,126626,2010-07-01,Senate,"Reported Favorably With Substitute S-2",18,0,0,0,18
+190738,126664,2010-09-16,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+190741,126713,2010-06-22,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+190742,126739,2010-09-16,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+190743,126758,2010-09-16,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+190744,126770,2010-06-22,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+193227,126955,2010-06-29,Senate,"Reported Favorably Without Amendment",15,0,0,0,15
+193704,127038,2010-06-22,House,"Reported With Recommendation Without Amendment",16,0,0,0,16
+193705,127045,2010-06-22,House,"Reported With Recommendation With Substitute H-1",16,0,0,0,16
+193706,127052,2010-08-24,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+194063,127216,2010-09-21,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+194209,127262,2010-06-02,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+194209,127263,2010-06-16,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+194285,127301,2010-09-22,House,"Reported With Recommendation For Referral To Committee On Military And Veterans Affairs And Homeland Security",12,0,0,0,12
+205159,127344,2010-11-10,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+205160,127350,2010-11-10,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+205161,127356,2010-11-10,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+205162,127369,2010-11-10,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+205163,127374,2010-11-10,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+205206,127390,2010-05-26,House,"Reported With Recommendation With Substitute H-1",10,1,0,0,11
+205206,127391,2010-06-17,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+205208,127403,2010-06-30,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+205209,127426,2010-06-08,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+205490,127462,2010-06-15,Senate,"Reported Favorably Without Amendment",16,0,0,0,16
+205564,127556,2010-11-10,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+205687,127573,2010-06-02,House,"Reported With Recommendation Without Amendment",11,0,0,0,11
+205761,127670,2010-06-01,House,"Reported With Recommendation Without Amendment",6,2,0,0,8
+205938,127805,2010-09-15,Senate,"Reported Favorably With Substitute S-1",6,0,0,0,6
+205946,127908,2010-06-22,House,"Reported With Recommendation With Substitute H-1",10,0,0,0,10
+205995,127913,2010-06-08,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+205995,127914,2010-06-22,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+206325,129183,2010-06-23,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+206328,129240,2010-09-23,Senate,"Reported Favorably Without Amendment",8,0,0,0,8
+206329,129248,2010-09-23,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+206330,129255,2010-09-23,Senate,"Reported Favorably Without Amendment",8,0,0,0,8
+206368,129324,2010-07-28,House,"Reported With Recommendation With Substitute H-1",7,2,0,0,9
+206369,129340,2010-06-30,House,"Reported With Recommendation With Substitute H-1",9,2,0,0,11
+206369,129341,2010-11-10,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+206458,129461,2010-06-30,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+206458,129462,2010-12-03,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+206464,129519,2010-11-09,House,"Reported With Recommendation Without Amendment",6,2,0,0,8
+206464,129520,2010-12-02,Senate,"Reported Favorably Without Amendment",3,0,0,0,3
+206466,129543,2010-06-15,House,"Reported With Recommendation Without Amendment",7,0,0,0,7
+206467,129557,2010-06-15,House,"Reported With Recommendation Without Amendment",7,0,0,0,7
+206468,129567,2010-06-15,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+206847,129748,2010-06-22,Senate,"Reported Favorably Without Amendment",14,0,0,0,14
+206848,129763,2010-06-22,Senate,"Reported Favorably Without Amendment",15,0,0,0,15
+206849,129787,2010-06-22,Senate,"Reported Favorably Without Amendment",15,0,0,0,15
+206952,129839,2010-06-29,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+207059,130062,2010-07-21,Senate,"Reported Favorably Without Amendment",18,0,0,0,18
+207161,130092,2010-11-16,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+207162,130103,2010-11-16,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+207606,130416,2010-08-24,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+208131,131261,2010-09-23,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+208475,131368,2010-11-09,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+208475,131369,2010-12-01,House,"Reported With Recommendation Without Amendment",6,1,0,0,7
+208488,131555,2010-08-19,Senate,"Reported Favorably Without Amendment",6,0,0,0,6
+208599,132049,2010-11-10,House,"Reported With Recommendation Without Amendment",8,0,0,0,8
+208600,132068,2010-11-10,House,"Reported With Recommendation With Substitute H-1",8,0,0,0,8
+208601,132083,2010-11-10,House,"Reported With Recommendation Without Amendment",8,0,0,0,8
+208602,132089,2010-11-10,House,"Reported With Recommendation Without Amendment",8,0,0,0,8
+208603,132121,2010-11-10,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+208604,132144,2010-11-10,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+208615,132262,2010-11-10,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+208616,132274,2010-11-10,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+208806,132510,2010-09-16,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+208807,132513,2010-09-16,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+208853,132563,2010-09-23,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+208853,132564,2010-11-10,House,"Reported With Recommendation Without Amendment",14,0,0,0,14
+208876,132697,2010-11-10,House,"Reported With Recommendation Without Amendment",13,0,0,0,13
+208889,132767,2010-12-01,House,"Reported With Recommendation Without Amendment",7,0,0,0,7
+208892,132794,2010-11-10,Senate,"Reported Favorably Without Amendment",5,0,0,0,5
+208895,132835,2010-08-24,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+208896,132862,2010-08-24,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+208897,132871,2010-08-24,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+208898,132881,2010-08-24,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+208899,132901,2010-08-24,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+208902,132972,2010-11-09,House,"Reported With Recommendation For Referral To Committee On Agriculture",10,0,0,0,10
+208903,132982,2010-11-09,House,"Reported With Recommendation For Referral To Committee On Agriculture",10,0,0,0,10
+208904,132999,2010-11-09,House,"Reported With Recommendation For Referral To Committee On Agriculture",10,0,0,0,10
+209039,133382,2010-11-09,House,"Reported With Recommendation With Substitute H-1",13,1,0,0,14
+209090,133550,2010-11-30,House,"Reported With Recommendation Without Amendment",6,0,0,0,6
+209092,133584,2010-09-22,Senate,"Reported Favorably Without Amendment",17,0,0,0,17
+209093,133592,2010-09-22,Senate,"Reported Favorably Without Amendment",17,0,0,0,17
+209098,133726,2010-11-10,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+209099,133737,2010-11-10,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+209185,133827,2010-09-21,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+209185,133828,2010-11-10,House,"Reported With Recommendation Without Amendment",14,1,0,0,15
+209186,133834,2010-09-23,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+209186,133835,2010-11-10,House,"Reported With Recommendation Without Amendment",8,0,0,0,8
+209190,133871,2010-09-23,Senate,"Reported Favorably Without Amendment",7,0,0,0,7
+209191,133889,2010-09-23,Senate,"Reported Favorably With Substitute S-1",7,0,0,0,7
+209192,133897,2010-11-10,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+209192,133898,2010-12-01,House,"Reported With Recommendation Without Amendment",6,0,0,0,6
+209449,134431,2010-09-22,House,"Reported With Recommendation Without Amendment",13,0,0,0,13
+209521,134539,2010-09-23,Senate,"Reported Favorably With Substitute S-1",5,1,0,0,6
+209708,134953,2010-11-09,Senate,"Reported Favorably With Substitute S-1",5,0,0,0,5
+209708,134954,2010-11-30,House,"Reported With Recommendation With Substitute H-2",9,0,0,0,9
+209718,135073,2010-11-10,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+209748,135107,2010-11-10,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+209748,135108,2010-12-01,House,"Reported With Recommendation With Substitute H-1",8,0,0,0,8
+209749,135122,2010-12-01,House,"Reported With Recommendation Without Amendment",8,0,0,0,8
+209804,135582,2010-11-10,House,"Reported With Recommendation With Substitute H-1",8,0,0,0,8
+210286,135716,2010-11-10,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+210306,135845,2010-11-10,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+210309,135869,2010-11-10,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+210310,135875,2010-11-10,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+210311,135879,2010-11-10,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+210318,135924,2010-11-10,Senate,"Reported Favorably With Substitute S-1",4,0,0,0,4
+210331,136005,2010-11-10,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+210331,136006,2010-12-01,House,"Reported With Recommendation Without Amendment",8,0,0,0,8
+210332,136013,2010-11-10,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+210333,136024,2010-11-10,Senate,"Reported Favorably Without Amendment",4,0,0,0,4
+210507,136075,2010-11-10,House,"Reported With Recommendation Without Amendment",7,0,0,0,7
