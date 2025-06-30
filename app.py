@@ -82,7 +82,7 @@ selected_name = st.selectbox(
 
 st.write(f"You selected: {selected_name}")
 
-votes_button = st.button(f"Get {selected_name}'s voting record"}
+votes_button = st.button(f"Get {selected_name}'s voting record")
 
 if voted_button:
     # find people_id
