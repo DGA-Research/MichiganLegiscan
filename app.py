@@ -73,54 +73,6 @@ def getVotes(peopleID, activeSessions):
     return(roll_call_dict)
 
 
-def formatOutput(voting_record_dict):
-    # Build the HTML
-    html = """
-    <!DOCTYPE html>
-    <html>
-    <head>
-        <title>Roll Call Table</title>
-        <style>
-            table {border-collapse: collapse; width: 100%;}
-            th, td {border: 1px solid #ddd; padding: 8px;}
-            th {background-color: #f2f2f2;}
-        </style>
-    </head>
-    <body>
-        <h2>Roll Call Table</h2>
-        <table>
-            <tr>
-                <th>Roll Call ID</th>
-                <th>Vote</th>
-                <th>Bill ID</th>
-                <th>Bill Number</th>
-                <th>Bill Description</th>
-            </tr>
-    """
-
-    for roll_call_id, values in voting_record_dict.items():
-        vote = values[0].strip()  # Remove newline
-        bill_id = values[1]
-        bill_number = values[2]
-        bill_desc = values[3]
-    
-        html += f"""
-            <tr>
-                <td>{roll_call_id}</td>
-                <td>{vote}</td>
-                <td>{bill_id}</td>
-                <td>{bill_number}</td>
-                <td>{bill_desc}</td>
-            </tr>
-        """
-    
-    html += """
-        </table>
-    </body>
-    </html>
-    """
-
-    return html
 
 names = getListNames()
 
@@ -139,7 +91,21 @@ if votes_button:
     people_id = getPeopleID(selected_name)
     activeSessions = getSessions(people_id)
     votingRecord = getVotes(people_id, activeSessions)
-    st.write(formatOutput(votingRecord))
+    data = []
+    for roll_call_id, values in votingRecord.items():
+        row = {
+        'Roll Call ID': roll_call_id,
+        'Session': values[1],
+        'Vote': values[0].strip(),  # remove \n
+        'Bill ID': values[2],
+        'Bill Number': values[3],
+        'Date': values[4],
+        'Bill Description': values[5]
+    }
+    data.append(row)
+    df = pd.DataFrame(data)
+    st.write(df)
+                      
     
     
 
