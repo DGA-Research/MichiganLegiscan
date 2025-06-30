@@ -1,0 +1,693 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1907245,1578784,2025-05-14,Senate,"Reported Favorably With Substitute S-1 5/13/2025",3,1,0,0,4
+1907286,1520090,2025-02-11,Senate,"Reported Favorably With Substitute S-1 2/12/2025",6,4,0,0,10
+1907301,1567331,2025-04-24,Senate,"Reported Favorably With Substitute S-1 4/23/2025",5,2,0,0,7
+1907301,1567332,2025-04-24,Senate,"Senate Third Reading: Passed Roll Call # 68",20,15,1,1,37
+1907332,1579048,2025-05-14,Senate,"Reported Favorably Without Amendment 5/13/2025",3,1,0,0,4
+1907392,1484534,2025-01-29,Senate,"Senate Third Reading: Passed Roll Call # 1",33,2,0,2,37
+1907409,1497042,2025-01-08,House,"House Third Reading: Roll Call #2",110,0,0,0,110
+1907409,1551333,2025-01-08,House,"House Third Reading: Roll Call Roll Call #2",110,0,0,0,110
+1907440,1484535,2025-01-29,Senate,"Senate Third Reading: Passed Roll Call # 2",33,2,0,2,37
+1907450,1497043,2025-01-08,House,"House Third Reading: Roll Call #3",110,0,0,0,110
+1907450,1551256,2025-01-08,House,"House Third Reading: Roll Call Roll Call #3",110,0,0,0,110
+1907466,1567212,2025-04-24,Senate,"Reported Favorably Without Amendment 4/23/2025",5,2,0,0,7
+1907466,1567213,2025-04-24,Senate,"Senate Third Reading: Passed Roll Call # 69",20,15,1,1,37
+1907481,1494918,2025-02-19,House,"House Third Reading: Given Immediate Effect Roll Call #8",69,40,0,0,109
+1907481,1496200,2025-02-13,Senate,"Reported Favorably Without Amendment 2/13/2025",6,4,0,0,10
+1907481,1496201,2025-02-13,Senate,"Senate Third Reading: Passed Roll Call # 7",20,12,0,5,37
+1907481,1551109,2025-02-13,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 2/13/2025",6,4,0,0,10
+1907511,1567419,2025-04-24,Senate,"Reported Favorably Without Amendment 4/23/2025",5,2,0,0,7
+1907511,1567420,2025-04-24,Senate,"Senate Third Reading: Passed Roll Call # 70",20,15,1,1,37
+1909085,1472926,2025-01-16,House,"Reported With Recommendation With Substitute H-1",15,0,0,0,15
+1909085,1474613,2025-01-23,House,"House Third Reading: Given Immediate Effect Roll Call #5",67,38,0,0,105
+1909085,1497863,2025-02-20,House,"House Third Reading: Roll Call #12",81,29,0,0,110
+1909085,1498779,2025-02-20,Senate,"Senate Third Reading: Given Immediate Effect Roll Call # 10",26,10,0,1,37
+1909085,1550992,2025-02-20,House,"House Third Reading: Roll Call Roll Call #12",81,29,0,0,110
+1909445,1472909,2025-01-16,House,"Reported With Recommendation With Substitute H-2",14,0,0,0,14
+1909445,1474612,2025-01-23,House,"House Third Reading: Given Immediate Effect Roll Call #4",63,41,0,0,104
+1917708,1499750,2025-02-25,House,"Reported With Recommendation Without Amendment",17,0,0,0,17
+1917708,1516835,2025-03-11,House,"House Third Reading: Given Immediate Effect Roll Call #18",108,0,0,0,108
+1917708,1590919,2025-06-12,Senate,"Reported Favorably Without Amendment 6/11/2025",5,0,0,0,5
+1917766,1585548,2025-05-21,House,"Reported With Recommendation Without Amendment",28,0,0,0,28
+1917766,1589806,2025-06-11,House,"House Third Reading: Given Immediate Effect Roll Call #145",62,47,0,0,109
+1917826,1571206,2025-05-07,House,"Reported With Recommendation Without Amendment",11,2,0,0,13
+1917826,1579873,2025-05-20,House,"House Third Reading: Given Immediate Effect Roll Call #122",83,24,0,0,107
+1918007,1527659,2025-03-12,House,"Reported With Recommendation Without Amendment",17,0,0,0,17
+1918007,1551150,2025-04-15,House,"House Third Reading: Given Immediate Effect Roll Call #50",103,1,0,0,104
+1918072,1524104,2025-03-20,House,"House Third Reading: Given Immediate Effect Roll Call #44",102,3,0,0,105
+1918072,1524538,2025-03-06,House,"Reported With Recommendation Without Amendment",15,0,0,0,15
+1918128,1519768,2025-03-11,House,"Reported With Recommendation Without Amendment",13,0,0,0,13
+1918128,1522468,2025-03-18,House,"House Third Reading: Given Immediate Effect Roll Call #29",97,11,0,0,108
+1918310,1563698,2025-04-15,House,"Reported With Recommendation For Referral To Committee On Rules",12,2,0,0,14
+1918310,1566439,2025-05-01,House,"Reported With Recommendation Without Amendment",8,0,0,0,8
+1918310,1570275,2025-05-07,House,"House Third Reading: Given Immediate Effect Roll Call #91",82,27,0,0,109
+1918368,1585369,2025-05-08,House,"Reported With Recommendation Without Amendment",5,0,0,0,5
+1919985,1526478,2025-03-13,House,"Reported With Recommendation For Referral To Committee On Rules",10,0,0,0,10
+1934047,1590271,2025-06-11,Senate,"Reported Favorably Without Amendment 6/11/2025",8,3,0,0,11
+1934118,1521392,2025-02-26,Senate,"Reported Favorably With Substitute S-2 2/25/2025",6,0,0,0,6
+1934118,1521393,2025-03-12,Senate,"Senate Third Reading: Passed Roll Call # 17",30,6,0,1,37
+1934118,1551289,2025-02-26,Senate,"REPORTED FAVORABLY WITH SUBSTITUTE (S-2) 2/25/2025",6,0,0,0,6
+1934118,1552414,2025-02-26,Senate,"Reported Favorably With Substitute s-2 2/25/2025",6,0,0,0,6
+1934187,1590269,2025-06-11,Senate,"Reported Favorably With Substitute S-1 6/10/2025",8,3,0,0,11
+1934392,1590218,2025-06-11,Senate,"Reported Favorably Without Amendment 6/10/2025",8,3,0,0,11
+1934458,1547063,2025-03-20,Senate,"Reported Favorably Without Amendment 3/18/2025",11,0,0,0,11
+1934458,1551211,2025-03-20,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 3/18/2025",11,0,0,0,11
+1934458,1557070,2025-04-17,Senate,"Senate Third Reading: Passed Roll Call # 50",36,0,0,1,37
+1934521,1590578,2025-06-11,Senate,"Reported Favorably Without Amendment 6/10/2025",11,0,0,0,11
+1935066,1507021,2025-03-05,House,"Reported With Recommendation Without Amendment",10,1,0,0,11
+1935066,1516943,2025-03-11,House,"House Third Reading: Given Immediate Effect Roll Call #20",74,34,0,0,108
+1937170,1497673,2025-02-11,Senate,"Reported Favorably Without Amendment 2/5/2025",5,0,0,0,5
+1937170,1521543,2025-03-05,Senate,"Senate Third Reading: Passed Roll Call # 13",29,6,0,2,37
+1937170,1551057,2025-02-11,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 2/5/2025",5,0,0,0,5
+1937556,1515672,2025-02-25,Senate,"Senate Third Reading: Passed Roll Call # 12",32,0,0,5,37
+1937556,1520091,2025-02-11,Senate,"Reported Favorably Without Amendment 2/12/2025",8,0,0,0,8
+1937690,1542113,2025-03-13,Senate,"Reported Favorably With Substitute S-1 3/13/2025",11,0,0,0,11
+1937690,1542114,2025-03-18,Senate,"Senate Third Reading: Passed Roll Call # 37",37,0,0,0,37
+1937690,1551064,2025-03-13,Senate,"REPORTED FAVORABLY WITH SUBSTITUTE (S-1) 3/13/2025",11,0,0,0,11
+1944004,1507234,2025-03-05,House,"Reported With Recommendation With Substitute H-1",10,0,0,0,10
+1944049,1584578,2025-05-21,House,"Reported With Recommendation Without Amendment",28,0,0,0,28
+1944049,1587512,2025-06-05,House,"House Third Reading: Given Immediate Effect Roll Call #142",104,2,0,0,106
+1944091,1505904,2025-02-26,House,"Reported With Recommendation Without Amendment",15,0,0,0,15
+1944091,1520056,2025-03-06,House,"House Third Reading: Given Immediate Effect Roll Call #17",106,1,0,0,107
+1944224,1558751,2025-04-16,House,"Reported With Recommendation With Substitute H-2",11,0,0,0,11
+1944224,1559717,2025-04-23,House,"House Third Reading: Given Immediate Effect Roll Call #66",106,0,0,0,106
+1944262,1489926,2025-02-11,House,"Reported With Recommendation Without Amendment",3,0,0,0,3
+1944307,1562248,2025-04-22,House,"Reported With Recommendation Without Amendment",10,7,0,0,17
+1944307,1565659,2025-04-30,House,"House Third Reading: Given Immediate Effect Roll Call #73",58,48,0,0,106
+1944349,1562208,2025-04-23,House,"Reported With Recommendation With Substitute H-1",14,0,0,0,14
+1944349,1565544,2025-04-30,House,"House Third Reading: Given Immediate Effect Roll Call #71",107,0,0,0,107
+1944392,1562062,2025-04-22,House,"Reported With Recommendation Without Amendment",10,7,0,0,17
+1944392,1565448,2025-04-30,House,"House Third Reading: Given Immediate Effect Roll Call #72",58,48,0,0,106
+1944477,1499875,2025-02-25,House,"Reported With Recommendation Without Amendment",15,0,0,0,15
+1944477,1519577,2025-03-13,House,"House Third Reading: Given Immediate Effect Roll Call #27",95,12,0,0,107
+1944518,1499900,2025-02-25,House,"Reported With Recommendation Without Amendment",15,0,0,0,15
+1944518,1519571,2025-03-13,House,"House Third Reading: Given Immediate Effect Roll Call #26",96,11,0,0,107
+1944552,1558750,2025-04-16,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+1944552,1559699,2025-04-23,House,"House Third Reading: Given Immediate Effect Roll Call #65",106,0,0,0,106
+1946118,1477082,2025-01-29,House,"House Third Reading: Roll Call #6",105,0,0,0,105
+1946118,1551084,2025-01-29,House,"House Third Reading: Roll Call Roll Call #6",105,0,0,0,105
+1946361,1527239,2025-03-11,House,"Reported With Recommendation Without Amendment",6,3,0,0,9
+1948377,1558752,2025-04-16,House,"Reported With Recommendation With Substitute H-2",11,0,0,0,11
+1948377,1559696,2025-04-24,House,"House Third Reading: Given Immediate Effect Roll Call #69",104,1,0,0,105
+1948432,1498271,2025-02-20,House,"Reported With Recommendation With Substitute H-1",5,0,0,0,5
+1948432,1499787,2025-02-25,House,"House Third Reading: Given Immediate Effect Roll Call #13",80,28,0,0,108
+1948484,1497638,2025-02-20,House,"Reported With Recommendation Without Amendment",5,0,0,0,5
+1948484,1499972,2025-02-25,House,"House Third Reading: Given Immediate Effect Roll Call #14",91,17,0,0,108
+1948813,1585842,2025-05-08,House,"Reported With Recommendation Without Amendment",5,0,0,0,5
+1948813,1589639,2025-06-11,House,"House Third Reading: Given Immediate Effect Roll Call #144",92,17,0,0,109
+1948929,1499714,2025-02-25,House,"Reported With Recommendation Without Amendment",17,0,0,0,17
+1948929,1516865,2025-03-11,House,"House Third Reading: Given Immediate Effect Roll Call #19",108,0,0,0,108
+1948929,1590920,2025-06-12,Senate,"Reported Favorably Without Amendment 6/11/2025",5,0,0,0,5
+1948980,1558753,2025-04-16,House,"Reported With Recommendation Without Amendment",11,0,0,0,11
+1948980,1559955,2025-04-24,House,"House Third Reading: Given Immediate Effect Roll Call #70",104,1,0,0,105
+1953385,1498013,2025-02-11,Senate,"Reported Favorably Without Amendment 2/5/2025",10,0,0,0,10
+1953385,1498014,2025-02-13,Senate,"Senate Third Reading: Passed Roll Call # 8",32,0,0,5,37
+1953385,1552020,2025-02-11,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 2/5/2025",10,0,0,0,10
+1953676,1484537,2025-02-05,Senate,"Reported Favorably Without Amendment 2/4/2025",11,6,0,0,17
+1953676,1542462,2025-03-13,Senate,"Senate Third Reading: Passed Roll Call # 29",19,17,0,1,37
+1953676,1550986,2025-02-05,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 2/4/2025",11,6,0,0,17
+1953772,1484536,2025-02-05,Senate,"Reported Favorably Without Amendment 2/4/2025",11,5,0,0,16
+1953772,1541987,2025-03-13,Senate,"Senate Third Reading: Passed Roll Call # 35",19,17,0,1,37
+1953875,1594538,2025-06-18,Senate,"Reported Favorably Without Amendment 6/17/2025",4,0,0,0,4
+1953875,1595928,2025-06-26,Senate,"Senate Third Reading: Passed Roll Call # 188",32,5,0,0,37
+1954063,1547288,2025-03-20,Senate,"Reported Favorably With Substitute S-1 3/18/2025",10,1,0,0,11
+1954063,1550959,2025-03-20,Senate,"REPORTED FAVORABLY WITH SUBSTITUTE (S-1) 3/18/2025",10,1,0,0,11
+1954063,1552432,2025-03-20,Senate,"Reported Favorably With Substitute s-1 3/18/2025",10,1,0,0,11
+1954063,1556441,2025-04-17,Senate,"Senate Third Reading: Passed Roll Call # 53",22,14,0,1,37
+1954091,1547170,2025-03-20,Senate,"Reported Favorably Without Amendment 3/18/2025",9,0,0,0,9
+1954091,1550911,2025-03-20,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 3/18/2025",9,0,0,0,9
+1954091,1556984,2025-04-17,Senate,"Senate Third Reading: Passed Roll Call # 59",36,0,0,1,37
+1954173,1520073,2025-02-11,Senate,"Reported Favorably Without Amendment 2/11/2025",5,0,0,0,5
+1954173,1521913,2025-03-06,Senate,"Senate Third Reading: Passed Roll Call # 14",36,0,0,1,37
+1954258,1520074,2025-02-11,Senate,"Reported Favorably Without Amendment 2/11/2025",5,0,0,0,5
+1954258,1522292,2025-02-25,Senate,"Senate Third Reading: Passed Roll Call # 11",23,9,0,5,37
+1954284,1547211,2025-03-20,Senate,"Reported Favorably With Substitute S-1 3/18/2025",10,0,0,0,10
+1954284,1550924,2025-03-20,Senate,"REPORTED FAVORABLY WITH SUBSTITUTE (S-1) 3/18/2025",10,0,0,0,10
+1954284,1552435,2025-03-20,Senate,"Reported Favorably With Substitute s-1 3/18/2025",10,0,0,0,10
+1954284,1556623,2025-04-17,Senate,"Senate Third Reading: Passed Roll Call # 58",27,9,0,1,37
+1954345,1579858,2025-05-21,Senate,"Reported Favorably Without Amendment 5/20/2025",8,1,0,0,9
+1954345,1595924,2025-06-26,Senate,"Senate Third Reading: Passed Roll Call # 183",28,9,0,0,37
+1954429,1547322,2025-03-20,Senate,"Reported Favorably Without Amendment 3/18/2025",9,2,0,0,11
+1954429,1550962,2025-03-20,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 3/18/2025",9,2,0,0,11
+1954429,1556539,2025-04-17,Senate,"Senate Third Reading: Passed Roll Call # 52",22,14,0,1,37
+1954519,1547543,2025-03-20,Senate,"Reported Favorably Without Amendment 3/18/2025",11,0,0,0,11
+1954519,1551041,2025-03-20,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 3/18/2025",11,0,0,0,11
+1954519,1556739,2025-04-17,Senate,"Senate Third Reading: Passed Roll Call # 54",36,0,0,1,37
+1954575,1547212,2025-03-20,Senate,"Reported Favorably Without Amendment 3/18/2025",10,0,0,0,10
+1954575,1550915,2025-03-20,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 3/18/2025",10,0,0,0,10
+1954575,1556453,2025-04-17,Senate,"Senate Third Reading: Passed Roll Call # 60",36,0,0,1,37
+1954632,1547140,2025-03-20,Senate,"Reported Favorably Without Amendment 3/18/2025",9,2,0,0,11
+1954632,1551091,2025-03-20,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 3/18/2025",9,2,0,0,11
+1954632,1556621,2025-04-17,Senate,"Senate Third Reading: Passed Roll Call # 56",22,14,0,1,37
+1954659,1505812,2025-02-26,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+1954659,1519940,2025-03-12,House,"House Third Reading: Given Immediate Effect Roll Call #21",107,2,0,0,109
+1954722,1547219,2025-03-20,Senate,"Reported Favorably Without Amendment 3/19/2025",9,2,0,0,11
+1954722,1550914,2025-03-20,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 3/19/2025",9,2,0,0,11
+1954722,1556457,2025-04-17,Senate,"Senate Third Reading: Passed Roll Call # 51",22,14,0,1,37
+1954747,1548030,2025-03-20,Senate,"Reported Favorably Without Amendment 3/18/2025",11,0,0,0,11
+1954747,1551542,2025-03-20,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 3/18/2025",11,0,0,0,11
+1954747,1556791,2025-04-17,Senate,"Senate Third Reading: Passed Roll Call # 57",36,0,0,1,37
+1954970,1544153,2025-03-19,Senate,"Senate Third Reading: Passed Roll Call # 41",29,7,0,1,37
+1954999,1547281,2025-03-20,Senate,"Reported Favorably Without Amendment 3/18/2025",8,3,0,0,11
+1954999,1550958,2025-03-20,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 3/18/2025",8,3,0,0,11
+1954999,1556648,2025-04-17,Senate,"Senate Third Reading: Passed Roll Call # 55",19,17,0,1,37
+1956190,1590296,2025-06-12,Senate,"Reported Favorably Without Amendment 6/11/2025",5,0,0,0,5
+1956364,1590317,2025-06-12,Senate,"Reported Favorably Without Amendment 6/11/2025",5,0,0,0,5
+1956579,1521220,2025-03-12,Senate,"Senate Third Reading: Passed Roll Call # 18",31,5,0,1,37
+1956579,1524530,2025-02-26,Senate,"Reported Favorably Without Amendment 2/27/2025",9,0,0,0,9
+1959231,1487416,2025-02-11,House,"Reported With Recommendation With Substitute H-1",3,0,0,0,3
+1959231,1489927,2025-02-11,House,"House Third Reading: Roll Call #7",56,47,0,0,103
+1959231,1550953,2025-02-11,House,"House Third Reading: Roll Call Roll Call #7",56,50,0,0,106
+1959442,1494037,2025-02-18,House,"Reported With Recommendation Without Amendment",3,0,0,0,3
+1959442,1498078,2025-02-20,House,"House Third Reading: Given Immediate Effect Roll Call #9",98,11,0,0,109
+1959658,1493911,2025-02-18,House,"Reported With Recommendation Without Amendment",3,0,0,0,3
+1959658,1497677,2025-02-20,House,"House Third Reading: Given Immediate Effect Roll Call #11",103,6,0,0,109
+1959871,1493919,2025-02-18,House,"Reported With Recommendation Without Amendment",3,0,0,0,3
+1959871,1497810,2025-02-20,House,"House Third Reading: Given Immediate Effect Roll Call #10",96,13,0,0,109
+1960086,1520057,2025-03-06,House,"Reported With Recommendation With Substitute H-1",15,0,0,0,15
+1960086,1522559,2025-03-18,House,"House Third Reading: Given Immediate Effect Roll Call #28",101,7,0,0,108
+1964889,1521901,2025-03-11,Senate,"Reported Favorably With Substitute S-1 3/6/2025",7,0,0,0,7
+1964889,1541415,2025-03-13,Senate,"Senate Third Reading: Passed Roll Call # 24",36,0,0,1,37
+1964889,1551249,2025-03-11,Senate,"REPORTED FAVORABLY WITH SUBSTITUTE (S-1) 3/6/2025",7,0,0,0,7
+1964889,1552434,2025-03-11,Senate,"Reported Favorably With Substitute s-1 3/6/2025",7,0,0,0,7
+1964965,1594542,2025-06-17,Senate,"Reported Favorably With Substitute S-2 6/12/2025",10,0,0,0,10
+1964965,1594543,2025-06-24,Senate,"Senate Third Reading: Passed Roll Call # 170",35,1,0,1,37
+1965041,1575116,2025-05-15,House,"Reported With Recommendation With Substitute H-1",3,2,0,0,5
+1965041,1580897,2025-05-22,House,"House Third Reading: Given Immediate Effect Roll Call #131",58,46,0,0,104
+1966031,1524537,2025-03-05,Senate,"Reported Favorably Without Amendment 3/5/2025",5,0,0,0,5
+1966031,1545651,2025-03-19,Senate,"Senate Third Reading: Passed Roll Call # 40",36,0,0,1,37
+1966111,1520168,2025-02-25,Senate,"Reported Favorably Without Amendment 2/20/2025",5,0,0,0,5
+1966111,1543522,2025-03-18,Senate,"Senate Third Reading: Passed Roll Call # 36",25,12,0,0,37
+1966111,1552002,2025-02-25,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 2/20/2025",5,0,0,0,5
+1966180,1521548,2025-03-11,Senate,"Reported Favorably With Substitute S-1 3/6/2025",5,1,0,0,6
+1966180,1547158,2025-03-19,Senate,"Senate Third Reading: Passed Roll Call # 42",25,11,0,1,37
+1966180,1551344,2025-03-11,Senate,"REPORTED FAVORABLY WITH SUBSTITUTE (S-1) 3/6/2025",5,1,0,0,6
+1966180,1552427,2025-03-11,Senate,"Reported Favorably With Substitute s-1 3/6/2025",5,1,0,0,6
+1966262,1579576,2025-05-01,Senate,"Reported Favorably Without Amendment 5/1/2025",4,0,0,0,4
+1966262,1579628,2025-05-20,Senate,"Senate Third Reading: Passed Roll Call # 139",23,11,0,3,37
+1967006,1527440,2025-03-12,House,"Reported With Recommendation Without Amendment",11,0,0,0,11
+1967037,1567043,2025-04-16,House,"Reported With Recommendation With Substitute H-2",10,0,0,0,10
+1967037,1570075,2025-05-07,House,"House Third Reading: Given Immediate Effect Roll Call #95",108,1,0,0,109
+1967066,1527354,2025-03-20,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+1967066,1553225,2025-04-16,House,"House Third Reading: Given Immediate Effect Roll Call #52",96,6,0,0,102
+1967188,1570495,2025-04-24,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+1967188,1571879,2025-05-13,House,"House Third Reading: Given Immediate Effect Roll Call #102",99,7,0,0,106
+1967316,1527300,2025-03-12,House,"Reported With Recommendation Without Amendment",15,0,0,0,15
+1967316,1558031,2025-04-22,House,"House Third Reading: Given Immediate Effect Roll Call #57",106,2,0,0,108
+1967442,1567027,2025-04-16,House,"Reported With Recommendation Without Amendment",15,0,0,0,15
+1967442,1570376,2025-05-07,House,"House Third Reading: Given Immediate Effect Roll Call #94",109,0,0,0,109
+1967472,1527220,2025-03-12,House,"Reported With Recommendation Without Amendment",16,0,0,0,16
+1967472,1558009,2025-04-22,House,"House Third Reading: Given Immediate Effect Roll Call #58",106,2,0,0,108
+1974739,1521844,2025-03-12,Senate,"Senate Third Reading: Passed Roll Call # 20",36,0,0,1,37
+1974739,1524532,2025-02-26,Senate,"Reported Favorably Without Amendment 2/27/2025",9,0,0,0,9
+1975236,1521810,2025-03-12,Senate,"Senate Third Reading: Passed Roll Call # 19",36,0,0,1,37
+1975236,1524531,2025-02-26,Senate,"Reported Favorably Without Amendment 2/27/2025",9,0,0,0,9
+1975506,1571285,2025-05-08,House,"Reported With Recommendation Without Amendment",5,0,0,0,5
+1975506,1574450,2025-05-14,House,"House Third Reading: Given Immediate Effect Roll Call #115",104,2,0,0,106
+1975506,1590921,2025-06-11,Senate,"Reported Favorably Without Amendment 6/10/2025",6,0,0,0,6
+1975506,1595558,2025-06-25,Senate,"Senate Third Reading: Given Immediate Effect Roll Call # 177",34,2,0,1,37
+1977249,1520373,2025-03-11,House,"Reported With Recommendation Without Amendment",13,0,0,0,13
+1977249,1522322,2025-03-18,House,"House Third Reading: Given Immediate Effect Roll Call #30",100,8,0,0,108
+1977353,1568180,2025-04-16,House,"Reported With Recommendation For Referral To Committee On Rules",15,0,0,0,15
+1977353,1570338,2025-05-08,House,"Reported With Recommendation Without Amendment",8,0,0,0,8
+1977353,1571833,2025-05-13,House,"House Third Reading: Given Immediate Effect Roll Call #100",104,2,0,0,106
+1977397,1571249,2025-04-30,House,"Reported With Recommendation Without Amendment",15,0,0,0,15
+1977397,1580269,2025-05-20,House,"House Third Reading: Given Immediate Effect Roll Call #119",105,2,0,0,107
+1977461,1520262,2025-03-11,House,"Reported With Recommendation Without Amendment",13,0,0,0,13
+1977461,1522301,2025-03-18,House,"House Third Reading: Given Immediate Effect Roll Call #31",98,10,0,0,108
+1977509,1571317,2025-04-30,House,"Reported With Recommendation Without Amendment",15,0,0,0,15
+1977509,1580002,2025-05-20,House,"House Third Reading: Given Immediate Effect Roll Call #118",106,1,0,0,107
+1977565,1570566,2025-04-16,House,"Reported With Recommendation Without Amendment",15,0,0,0,15
+1977565,1571937,2025-05-13,House,"House Third Reading: Given Immediate Effect Roll Call #101",104,2,0,0,106
+1977719,1571861,2025-04-30,House,"Reported With Recommendation For Referral To Committee On Rules With Substitute H-1",17,0,0,0,17
+1977719,1575185,2025-05-15,House,"Reported With Recommendation With Substitute H-1",8,0,0,0,8
+1977719,1581082,2025-05-22,House,"House Third Reading: Given Immediate Effect Roll Call #129",103,2,0,0,105
+1978164,1524536,2025-02-26,Senate,"Reported Favorably Without Amendment 2/27/2025",9,0,0,0,9
+1978164,1541919,2025-03-13,Senate,"Senate Third Reading: Passed Roll Call # 23",36,0,0,1,37
+1978225,1521355,2025-03-06,Senate,"Senate Third Reading: Passed Roll Call # 16",35,1,0,1,37
+1978225,1524534,2025-02-26,Senate,"Reported Favorably Without Amendment 2/27/2025",5,0,0,0,5
+1978287,1548001,2025-03-19,Senate,"Reported Favorably Without Amendment 3/18/2025",7,0,0,0,7
+1978287,1551321,2025-03-19,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 3/18/2025",7,0,0,0,7
+1978287,1557327,2025-04-17,Senate,"Senate Third Reading: Passed Roll Call # 49",36,0,0,1,37
+1978349,1521097,2025-03-06,Senate,"Senate Third Reading: Passed Roll Call # 15",33,3,0,1,37
+1978349,1524533,2025-02-26,Senate,"Reported Favorably Without Amendment 2/27/2025",5,0,0,0,5
+1978411,1520601,2025-03-05,Senate,"Reported Favorably Without Amendment 2/27/2025",9,0,0,0,9
+1978411,1520602,2025-03-13,Senate,"Senate Third Reading: Passed Roll Call # 22",36,0,0,1,37
+1978411,1552030,2025-03-05,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 2/27/2025",9,0,0,0,9
+1978473,1524535,2025-02-26,Senate,"Reported Favorably Without Amendment 2/27/2025",9,0,0,0,9
+1978473,1541439,2025-03-13,Senate,"Senate Third Reading: Passed Roll Call # 21",36,0,0,1,37
+1982810,1531902,2025-03-25,House,"Reported With Recommendation With Substitute H-2",13,2,0,0,15
+1982900,1531885,2025-03-25,House,"Reported With Recommendation With Substitute H-1",13,2,0,0,15
+1982991,1521225,2025-03-13,House,"Reported With Recommendation Without Amendment",15,0,0,0,15
+1982991,1527301,2025-03-20,House,"House Third Reading: Given Immediate Effect Roll Call #43",83,21,0,0,104
+1983028,1532337,2025-03-25,House,"Reported With Recommendation For Referral To Committee On Rules",15,0,0,0,15
+1983091,1532162,2025-03-25,House,"Reported With Recommendation Without Amendment",15,0,0,0,15
+1983217,1532226,2025-03-25,House,"Reported With Recommendation Without Amendment",15,0,0,0,15
+1983249,1558168,2025-04-22,House,"House Third Reading: Given Immediate Effect Roll Call #61",101,7,0,0,108
+1983249,1558754,2025-04-17,House,"Reported With Recommendation With Amendment(s)",9,0,0,0,9
+1983280,1576142,2025-05-08,House,"Reported With Recommendation For Referral To Committee On Rules",11,0,0,0,11
+1983280,1584588,2025-05-22,House,"Reported With Recommendation Without Amendment",7,1,0,0,8
+1983280,1587596,2025-06-04,House,"House Third Reading: Given Immediate Effect Roll Call #136",83,25,0,0,108
+1983379,1532350,2025-03-25,House,"Reported With Recommendation For Referral To Committee On Rules",15,0,0,0,15
+1983475,1568872,2025-05-08,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+1983475,1587502,2025-06-04,House,"House Third Reading: Given Immediate Effect Roll Call #140",83,25,0,0,108
+1983506,1521270,2025-03-13,House,"Reported With Recommendation Without Amendment",15,0,0,0,15
+1983506,1527906,2025-03-20,House,"House Third Reading: Given Immediate Effect Roll Call #42",83,21,0,0,104
+1983538,1527702,2025-03-20,House,"Reported With Recommendation With Substitute H-1",5,0,0,0,5
+1983538,1571835,2025-05-13,House,"House Third Reading: Given Immediate Effect Roll Call #97",104,2,0,0,106
+1983914,1523807,2025-02-26,Senate,"Reported Favorably Without Amendment 2/27/2025",6,0,0,0,6
+1983914,1551218,2025-03-05,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 2/27/2025",5,0,0,0,5
+1983951,1523808,2025-02-26,Senate,"Reported Favorably Without Amendment 2/27/2025",6,0,0,0,6
+1983951,1567716,2025-04-24,Senate,"Senate Third Reading: Passed Roll Call # 66",35,1,0,1,37
+1983951,1571110,2025-05-13,House,"House Third Reading: Given Immediate Effect Roll Call #98",104,2,0,0,106
+1983951,1578019,2025-05-13,Senate,"Senate Third Reading: Roll Call: Roll Call # 119",37,0,0,0,37
+1984090,1547642,2025-04-09,Senate,"Reported Favorably Without Amendment 4/8/2025",4,0,0,0,4
+1984090,1550961,2025-04-09,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 4/8/2025",4,0,0,0,4
+1984090,1558337,2025-04-23,Senate,"Senate Third Reading: Passed Roll Call # 65",37,0,0,0,37
+1984186,1523806,2025-02-26,Senate,"Reported Favorably Without Amendment 2/27/2025",6,0,0,0,6
+1984186,1551970,2025-03-05,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 2/27/2025",5,0,0,0,5
+1984186,1567783,2025-04-24,Senate,"Senate Third Reading: Passed Roll Call # 67",33,3,0,1,37
+1984186,1571043,2025-05-13,House,"House Third Reading: Given Immediate Effect Roll Call #99",105,1,0,0,106
+1984186,1578010,2025-05-13,Senate,"Senate Third Reading: Roll Call: Roll Call # 120",37,0,0,0,37
+1984231,1547852,2025-03-20,Senate,"Reported Favorably Without Amendment 3/19/2025",9,0,0,0,9
+1984231,1550912,2025-03-20,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 3/19/2025",9,0,0,0,9
+1984231,1557341,2025-04-22,Senate,"Senate Third Reading: Passed Roll Call # 63",34,2,0,1,37
+1984276,1590227,2025-06-12,Senate,"Reported Favorably Without Amendment 6/10/2025",8,2,0,0,10
+1984276,1594871,2025-06-24,Senate,"Senate Third Reading: Passed Roll Call # 169",24,12,0,1,37
+1984324,1520745,2025-03-13,Senate,"Reported Favorably Without Amendment 3/12/2025",7,0,0,0,7
+1984324,1544570,2025-03-19,Senate,"Senate Third Reading: Passed Roll Call # 39",36,0,0,1,37
+1984324,1550920,2025-03-13,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 3/12/2025",7,0,0,0,7
+1985798,1532676,2025-03-26,House,"Reported With Recommendation Without Amendment",6,4,0,0,10
+1985798,1553435,2025-04-17,House,"House Third Reading: Given Immediate Effect Roll Call #53",57,48,0,0,105
+1985811,1527212,2025-03-19,House,"Reported With Recommendation With Substitute H-1",7,4,0,0,11
+1985824,1531994,2025-03-26,House,"Reported With Recommendation Without Amendment",7,1,0,0,8
+1985837,1507084,2025-03-05,House,"Reported With Recommendation Without Amendment",7,0,0,0,7
+1985837,1519349,2025-03-12,House,"House Third Reading: Given Immediate Effect Roll Call #22",83,26,0,0,109
+1985850,1585491,2025-05-14,House,"Reported With Recommendation With Substitute H-2",7,1,0,0,8
+1985864,1522266,2025-03-13,House,"Reported With Recommendation Without Amendment",5,0,0,0,5
+1985864,1526386,2025-03-12,House,"Reported With Recommendation For Referral To Committee On Rules",7,0,0,0,7
+1985864,1526387,2025-03-20,House,"House Third Reading: Given Immediate Effect Roll Call #47",92,13,0,0,105
+1985890,1571190,2025-04-30,House,"Reported With Recommendation Without Amendment",15,0,0,0,15
+1985890,1580306,2025-05-20,House,"House Third Reading: Given Immediate Effect Roll Call #120",107,0,0,0,107
+1985943,1520060,2025-03-06,House,"House Third Reading: Given Immediate Effect Roll Call #15",59,49,0,0,108
+1985956,1507004,2025-03-05,House,"Reported With Recommendation For Referral To Committee On Rules With Substitute H-1",7,4,0,0,11
+1985956,1519340,2025-03-12,House,"House Third Reading: Given Immediate Effect Roll Call #24",57,52,0,0,109
+1985956,1520059,2025-03-06,House,"Reported With Recommendation With Substitute H-1",6,0,0,0,6
+1985968,1520061,2025-03-06,House,"House Third Reading: Given Immediate Effect Roll Call #16",59,49,0,0,108
+1985995,1521281,2025-03-12,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+1985995,1527341,2025-03-20,House,"House Third Reading: Given Immediate Effect Roll Call #45",97,8,0,0,105
+1986010,1531917,2025-03-26,House,"Reported With Recommendation With Substitute H-1",7,2,0,0,9
+1986010,1553226,2025-04-17,House,"House Third Reading: Given Immediate Effect Roll Call #55",65,40,0,0,105
+1986022,1519346,2025-03-12,House,"House Third Reading: Given Immediate Effect Roll Call #23",96,13,0,0,109
+1986022,1520058,2025-03-06,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+1986022,1526073,2025-03-05,House,"Reported With Recommendation For Referral To Committee On Rules",10,0,0,0,10
+1986036,1533051,2025-03-26,House,"Reported With Recommendation With Substitute H-2",6,4,0,0,10
+1986036,1553633,2025-04-17,House,"House Third Reading: Given Immediate Effect Roll Call #56",57,43,0,0,100
+1986141,1533338,2025-03-26,House,"Reported With Recommendation Without Amendment",6,4,0,0,10
+1986141,1553903,2025-04-17,House,"House Third Reading: Given Immediate Effect Roll Call #54",57,48,0,0,105
+1986157,1527280,2025-03-12,House,"Reported With Recommendation Without Amendment",7,4,0,0,11
+1986171,1507035,2025-03-05,House,"Reported With Recommendation With Substitute H-1",6,0,0,0,6
+1986197,1566392,2025-04-29,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+1986197,1570189,2025-05-06,House,"House Third Reading: Given Immediate Effect Roll Call #89",108,2,0,0,110
+1986223,1521001,2025-03-12,House,"Reported With Recommendation With Substitute H-1",7,0,0,0,7
+1986223,1527313,2025-03-20,House,"House Third Reading: Given Immediate Effect Roll Call #46",86,19,0,0,105
+1986235,1584763,2025-05-21,House,"Reported With Recommendation Without Amendment",27,0,0,0,27
+1986235,1587433,2025-06-05,House,"House Third Reading: Given Immediate Effect Roll Call #143",104,2,0,0,106
+1986424,1543486,2025-03-18,Senate,"Reported Favorably Without Amendment 3/18/2025",7,0,0,0,7
+1986424,1550929,2025-03-18,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 3/18/2025",7,0,0,0,7
+1986424,1552499,2025-04-16,Senate,"Senate Third Reading: Passed Roll Call # 45",37,0,0,0,37
+1986549,1543955,2025-03-18,Senate,"Reported Favorably Without Amendment 3/18/2025",7,0,0,0,7
+1986549,1551139,2025-03-18,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 3/18/2025",7,0,0,0,7
+1986549,1554127,2025-04-16,Senate,"Senate Third Reading: Passed Roll Call # 47",37,0,0,0,37
+1986663,1542436,2025-03-18,Senate,"Reported Favorably Without Amendment 3/18/2025",7,0,0,0,7
+1986663,1550919,2025-03-18,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 3/18/2025",7,0,0,0,7
+1986663,1553367,2025-04-16,Senate,"Senate Third Reading: Passed Roll Call # 46",37,0,0,0,37
+1986784,1543519,2025-03-18,Senate,"Reported Favorably With Substitute S-1 3/18/2025",5,2,0,0,7
+1986784,1551251,2025-03-18,Senate,"REPORTED FAVORABLY WITH SUBSTITUTE (S-1) 3/18/2025",5,2,0,0,7
+1986784,1552473,2025-04-16,Senate,"Senate Third Reading: Passed Roll Call # 44",19,18,0,0,37
+1986784,1552474,2025-04-16,Senate,"Senate Third Reading: Passed Roll Call # 44",19,18,0,0,37
+1991143,1558760,2025-04-16,House,"Reported With Recommendation Without Amendment",10,4,0,0,14
+1991641,1545401,2025-03-18,Senate,"Reported Favorably Without Amendment 3/13/2025",11,0,0,0,11
+1991641,1548146,2025-03-19,Senate,"Senate Third Reading: Passed Roll Call # 43",30,6,0,1,37
+1991641,1551060,2025-03-18,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 3/13/2025",11,0,0,0,11
+1992501,1519635,2025-03-11,House,"Reported With Recommendation Without Amendment",9,3,0,0,12
+1992501,1522293,2025-03-18,House,"House Third Reading: Given Immediate Effect Roll Call #32",65,43,0,0,108
+1993164,1547205,2025-04-08,Senate,"Reported Favorably Without Amendment 3/20/2025",9,0,0,0,9
+1993164,1551477,2025-04-08,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 3/20/2025",9,0,0,0,9
+1993164,1575405,2025-04-29,Senate,"Senate Third Reading: Passed Roll Call # 72",33,3,0,1,37
+1993285,1555566,2025-04-17,Senate,"Senate Third Reading: Passed Roll Call # 48",20,16,0,1,37
+1993350,1580156,2025-05-21,Senate,"Reported Favorably Without Amendment 5/20/2025",5,2,0,0,7
+1993350,1589760,2025-06-10,Senate,"Senate Third Reading: Passed Roll Call # 158",19,18,0,0,37
+1993408,1589943,2025-06-05,Senate,"Reported Favorably With Substitute S-1 6/4/2025",7,0,0,0,7
+1993408,1589944,2025-06-10,Senate,"Senate Third Reading: Passed Roll Call # 165",26,11,0,0,37
+1993467,1547664,2025-04-08,Senate,"Reported Favorably Without Amendment 3/20/2025",9,0,0,0,9
+1993467,1550952,2025-04-08,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 3/20/2025",9,0,0,0,9
+1993467,1575262,2025-04-29,Senate,"Senate Third Reading: Passed Roll Call # 71",25,11,0,1,37
+1993557,1520966,2025-03-18,House,"Reported With Recommendation With Substitute H-1",10,1,0,0,11
+1993557,1527287,2025-03-19,House,"House Third Reading: Given Immediate Effect Roll Call #37",62,46,0,0,108
+1993579,1520987,2025-03-18,House,"Reported With Recommendation With Substitute H-2",10,1,0,0,11
+1993579,1527359,2025-03-19,House,"House Third Reading: Given Immediate Effect Roll Call #38",64,44,0,0,108
+1993604,1520939,2025-03-18,House,"Reported With Recommendation With Substitute H-1",10,0,0,0,10
+1993604,1527314,2025-03-19,House,"House Third Reading: Given Immediate Effect Roll Call #39",61,47,0,0,108
+1993637,1521829,2025-03-18,House,"Reported With Recommendation With Substitute H-1",10,1,0,0,11
+1993637,1527294,2025-03-19,House,"House Third Reading: Given Immediate Effect Roll Call #40",63,45,0,0,108
+1993663,1532318,2025-03-26,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+1993663,1551081,2025-04-15,House,"House Third Reading: Given Immediate Effect Roll Call #51",87,17,0,0,104
+1993745,1521106,2025-03-18,House,"Reported With Recommendation With Substitute H-2",10,1,0,0,11
+1993745,1527328,2025-03-19,House,"House Third Reading: Given Immediate Effect Roll Call #36",62,46,0,0,108
+1993808,1520918,2025-03-18,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+1993808,1527291,2025-03-19,House,"House Third Reading: Given Immediate Effect Roll Call #35",65,43,0,0,108
+1993892,1576554,2025-04-30,House,"Reported With Recommendation Without Amendment",15,0,0,0,15
+1993892,1588233,2025-06-04,House,"House Third Reading: Given Immediate Effect Roll Call #137",108,0,0,0,108
+1993923,1566283,2025-04-16,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+1993923,1570145,2025-05-07,House,"House Third Reading: Given Immediate Effect Roll Call #93",108,1,0,0,109
+1993950,1521623,2025-03-18,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+1993950,1527226,2025-03-19,House,"House Third Reading: Given Immediate Effect Roll Call #34",65,43,0,0,108
+1994006,1520960,2025-03-18,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+1994006,1527207,2025-03-19,House,"House Third Reading: Given Immediate Effect Roll Call #33",65,43,0,0,108
+1999816,1571276,2025-04-22,House,"Reported With Recommendation With Substitute H-3",10,0,0,0,10
+1999816,1574111,2025-05-14,House,"House Third Reading: Given Immediate Effect Roll Call #116",102,4,0,0,106
+1999841,1527247,2025-03-20,House,"House Third Reading: Defeated Roll Call #49",39,64,0,0,103
+1999877,1589941,2025-06-04,House,"Reported With Recommendation With Substitute H-1",11,0,0,0,11
+1999877,1591732,2025-06-12,House,"House Third Reading: Given Immediate Effect Roll Call #153",65,32,0,0,97
+1999893,1528538,2025-03-26,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+1999893,1560524,2025-04-23,House,"House Third Reading: Given Immediate Effect Roll Call #64",106,0,0,0,106
+2000003,1532059,2025-03-26,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+2000003,1560085,2025-04-23,House,"House Third Reading: Given Immediate Effect Roll Call #63",106,0,0,0,106
+2000027,1574220,2025-05-13,House,"Reported With Recommendation Without Amendment",15,0,0,0,15
+2000027,1580066,2025-05-21,House,"House Third Reading: Given Immediate Effect Roll Call #124",105,0,0,0,105
+2000785,1547947,2025-03-20,Senate,"Reported Favorably Without Amendment 3/19/2025",9,0,0,0,9
+2000785,1551681,2025-03-20,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 3/19/2025",9,0,0,0,9
+2000785,1556989,2025-04-17,Senate,"Senate Third Reading: Passed Roll Call # 62",36,0,0,1,37
+2001739,1548240,2025-03-20,Senate,"Reported Favorably Without Amendment 3/19/2025",9,0,0,0,9
+2001739,1551723,2025-03-20,Senate,"REPORTED FAVORABLY WITHOUT AMENDMENT 3/19/2025",9,0,0,0,9
+2001739,1557295,2025-04-22,Senate,"Senate Third Reading: Passed Roll Call # 64",36,0,0,1,37
+2002059,1575096,2025-05-07,Senate,"Reported Favorably Without Amendment 5/6/2025",10,0,0,0,10
+2002059,1579997,2025-05-20,Senate,"Senate Third Reading: Passed Roll Call # 147",33,1,0,3,37
+2003326,1575398,2025-05-07,Senate,"Reported Favorably Without Amendment 5/6/2025",10,0,0,0,10
+2003326,1579772,2025-05-20,Senate,"Senate Third Reading: Passed Roll Call # 146",33,1,0,3,37
+2003643,1575378,2025-05-07,Senate,"Reported Favorably Without Amendment 5/6/2025",10,0,0,0,10
+2003643,1579757,2025-05-20,Senate,"Senate Third Reading: Passed Roll Call # 145",33,1,0,3,37
+2004278,1548104,2025-03-20,Senate,"Reported Favorably With Substitute S-1 3/19/2025",9,0,0,0,9
+2004278,1551576,2025-03-20,Senate,"REPORTED FAVORABLY WITH SUBSTITUTE (S-1) 3/19/2025",9,0,0,0,9
+2004278,1552438,2025-03-20,Senate,"Reported Favorably With Substitute s-1 3/19/2025",9,0,0,0,9
+2004278,1556451,2025-04-17,Senate,"Senate Third Reading: Passed Roll Call # 61",36,0,0,1,37
+2004641,1567184,2025-04-16,House,"Reported With Recommendation With Substitute H-1",6,1,0,0,7
+2004641,1573948,2025-05-14,House,"House Third Reading: Given Immediate Effect Roll Call #106",81,25,0,0,106
+2004843,1567738,2025-04-23,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+2004843,1574193,2025-05-14,House,"House Third Reading: Given Immediate Effect Roll Call #107",99,7,0,0,106
+2004927,1594370,2025-05-20,House,"Reported With Recommendation With Substitute H-1",13,1,0,0,14
+2005089,1567785,2025-04-23,House,"Reported With Recommendation With Substitute H-1",10,0,0,0,10
+2005089,1574148,2025-05-14,House,"House Third Reading: Given Immediate Effect Roll Call #110",101,5,0,0,106
+2005175,1567377,2025-04-16,House,"Reported With Recommendation With Substitute H-2",6,2,0,0,8
+2005211,1567938,2025-04-30,House,"Reported With Recommendation With Substitute H-1",6,0,0,0,6
+2005211,1574032,2025-05-14,House,"House Third Reading: Given Immediate Effect Roll Call #111",85,21,0,0,106
+2005294,1567205,2025-04-16,House,"Reported With Recommendation With Substitute H-2",6,0,0,0,6
+2005294,1574022,2025-05-14,House,"House Third Reading: Given Immediate Effect Roll Call #105",80,26,0,0,106
+2005634,1579582,2025-05-14,Senate,"Reported Favorably Without Amendment 5/14/2025",6,0,0,0,6
+2005634,1588657,2025-06-10,Senate,"Senate Third Reading: Passed Roll Call # 159",37,0,0,0,37
+2005666,1580300,2025-05-20,Senate,"Reported Favorably With Substitute S-2 5/15/2025",7,3,0,0,10
+2005666,1588964,2025-06-10,Senate,"Senate Third Reading: Passed Roll Call # 160",19,18,0,0,37
+2005701,1556927,2025-04-22,Senate,"Reported Favorably Without Amendment 4/17/2025",5,0,0,0,5
+2005701,1575012,2025-04-29,Senate,"Senate Third Reading: Passed Roll Call # 73",21,15,0,1,37
+2005907,1590308,2025-06-10,Senate,"Reported Favorably With Substitute S-2 6/5/2025",5,2,0,0,7
+2005907,1595345,2025-06-25,Senate,"Senate Third Reading: Passed Roll Call # 178",19,17,0,1,37
+2005939,1590334,2025-06-10,Senate,"Reported Favorably With Substitute S-2 6/5/2025",5,2,0,0,7
+2005939,1595336,2025-06-25,Senate,"Senate Third Reading: Passed Roll Call # 179",19,17,0,1,37
+2006139,1532589,2025-03-26,House,"Reported With Recommendation Without Amendment",3,0,0,0,3
+2006139,1570119,2025-05-06,House,"House Third Reading: Given Immediate Effect Roll Call #88",71,39,0,0,110
+2006210,1534015,2025-03-26,House,"Reported With Recommendation For Referral To Committee On Rules",3,0,0,0,3
+2006210,1566746,2025-04-17,House,"Reported With Recommendation Without Amendment",6,0,0,0,6
+2006210,1570080,2025-05-06,House,"House Third Reading: Given Immediate Effect Roll Call #86",61,49,0,0,110
+2006251,1531947,2025-03-26,House,"Reported With Recommendation For Referral To Committee On Rules With Substitute H-1",3,0,0,0,3
+2006251,1566890,2025-04-17,House,"Reported With Recommendation With Substitute H-1",6,0,0,0,6
+2006251,1570082,2025-05-06,House,"House Third Reading: Given Immediate Effect Roll Call #85",79,31,0,0,110
+2006293,1565736,2025-04-17,House,"Reported With Recommendation With Substitute H-3",3,0,0,0,3
+2006293,1570069,2025-05-06,House,"House Third Reading: Given Immediate Effect Roll Call #83",63,47,0,0,110
+2006364,1532988,2025-03-26,House,"Reported With Recommendation With Substitute H-1",3,0,0,0,3
+2006364,1570708,2025-05-06,House,"House Third Reading: Given Immediate Effect Roll Call #82",61,49,0,0,110
+2006447,1521444,2025-03-18,House,"Reported With Recommendation With Substitute H-1",10,1,0,0,11
+2006447,1527729,2025-03-19,House,"House Third Reading: Given Immediate Effect Roll Call #41",63,45,0,0,108
+2006483,1534516,2025-03-26,House,"Reported With Recommendation For Referral To Committee On Rules",3,0,0,0,3
+2006483,1566889,2025-04-17,House,"Reported With Recommendation Without Amendment",6,0,0,0,6
+2006483,1570118,2025-05-06,House,"House Third Reading: Given Immediate Effect Roll Call #87",66,44,0,0,110
+2006521,1566885,2025-04-17,House,"Reported With Recommendation With Substitute H-1",3,0,0,0,3
+2006521,1570092,2025-05-06,House,"House Third Reading: Given Immediate Effect Roll Call #84",63,47,0,0,110
+2006590,1533115,2025-03-26,House,"Reported With Recommendation With Substitute H-1",3,0,0,0,3
+2006590,1570074,2025-05-06,House,"House Third Reading: Given Immediate Effect Roll Call #81",59,51,0,0,110
+2009676,1576542,2025-05-08,Senate,"Reported Favorably With Substitute S-2 5/6/2025",12,6,0,0,18
+2009676,1576543,2025-05-13,Senate,"Senate Third Reading: Passed Roll Call # 81",19,18,0,0,37
+2009692,1576192,2025-05-08,Senate,"Reported Favorably With Substitute S-2 5/6/2025",11,6,0,0,17
+2009692,1578822,2025-05-14,Senate,"Senate Third Reading: Passed Roll Call # 138",19,17,0,1,37
+2009702,1590564,2025-06-12,Senate,"Reported Favorably With Substitute S-1 6/11/2025",7,0,0,0,7
+2009702,1595909,2025-06-26,Senate,"Senate Third Reading: Passed Roll Call # 187",36,1,0,0,37
+2009708,1575982,2025-05-08,Senate,"Reported Favorably With Substitute S-1 5/6/2025",12,6,0,0,18
+2009708,1575983,2025-05-13,Senate,"Senate Third Reading: Passed Roll Call # 109",19,18,0,0,37
+2009716,1576022,2025-05-08,Senate,"Reported Favorably With Substitute S-3 5/6/2025",12,6,0,0,18
+2009716,1576023,2025-05-13,Senate,"Senate Third Reading: Passed Roll Call # 118",19,18,0,0,37
+2009735,1576515,2025-05-08,Senate,"Reported Favorably With Substitute S-1 5/6/2025",12,6,0,0,18
+2009735,1576516,2025-05-13,Senate,"Senate Third Reading: Passed Roll Call # 104",19,18,0,0,37
+2009744,1576617,2025-05-08,Senate,"Reported Favorably With Substitute S-2 5/6/2025",12,6,0,0,18
+2009744,1576618,2025-05-13,Senate,"Senate Third Reading: Passed Roll Call # 107",19,18,0,0,37
+2009750,1576024,2025-05-08,Senate,"Reported Favorably With Substitute S-2 5/6/2025",12,4,0,0,16
+2009750,1576025,2025-05-13,Senate,"Senate Third Reading: Passed Roll Call # 108",19,18,0,0,37
+2009756,1590470,2025-06-12,Senate,"Reported Favorably With Substitute S-1 6/11/2025",8,0,0,0,8
+2009756,1595939,2025-06-26,Senate,"Senate Third Reading: Passed Roll Call # 186",36,1,0,0,37
+2009777,1576180,2025-05-08,Senate,"Reported Favorably With Substitute S-2 5/6/2025",12,6,0,0,18
+2009777,1576181,2025-05-13,Senate,"Senate Third Reading: Passed Roll Call # 85",19,18,0,0,37
+2009805,1576448,2025-05-08,Senate,"Reported Favorably With Substitute S-1 5/6/2025",12,6,0,0,18
+2009805,1576449,2025-05-13,Senate,"Senate Third Reading: Passed Roll Call # 111",19,18,0,0,37
+2009813,1576091,2025-05-08,Senate,"Reported Favorably With Substitute S-1 5/6/2025",12,6,0,0,18
+2009813,1576092,2025-05-13,Senate,"Senate Third Reading: Passed Roll Call # 115",19,18,0,0,37
+2009822,1556684,2025-04-22,Senate,"Reported Favorably Without Amendment 4/17/2025",5,1,0,0,6
+2009822,1575362,2025-05-07,Senate,"Senate Third Reading: Passed Roll Call # 79",22,13,0,2,37
+2009829,1575814,2025-05-08,Senate,"Reported Favorably With Substitute S-1 5/6/2025",12,6,0,0,18
+2009829,1576346,2025-05-13,Senate,"Senate Third Reading: Passed Roll Call # 99",19,18,0,0,37
+2009839,1575835,2025-05-08,Senate,"Reported Favorably With Substitute S-2 5/6/2025",12,6,0,0,18
+2009839,1576649,2025-05-13,Senate,"Senate Third Reading: Passed Roll Call # 117",19,18,0,0,37
+2009846,1576256,2025-05-08,Senate,"Reported Favorably With Substitute S-2 5/6/2025",11,6,0,0,17
+2009846,1578961,2025-05-14,Senate,"Senate Third Reading: Passed Roll Call # 123",19,17,0,1,37
+2009855,1576226,2025-05-08,Senate,"Reported Favorably With Substitute S-2 5/6/2025",13,5,0,0,18
+2009855,1578826,2025-05-14,Senate,"Senate Third Reading: Passed Roll Call # 128",19,16,1,1,37
+2009880,1576585,2025-05-08,Senate,"Reported Favorably With Substitute S-1 5/6/2025",12,5,0,0,17
+2009880,1576586,2025-05-13,Senate,"Senate Third Reading: Passed Roll Call # 102",19,18,0,0,37
+2009885,1576354,2025-05-08,Senate,"Reported Favorably With Substitute S-2 5/6/2025",12,6,0,0,18
+2009885,1576355,2025-05-13,Senate,"Senate Third Reading: Passed Roll Call # 106",19,18,0,0,37
+2009892,1575904,2025-05-08,Senate,"Reported Favorably With Substitute S-3 5/6/2025",12,6,0,0,18
+2009892,1578825,2025-05-14,Senate,"Senate Third Reading: Passed Roll Call # 127",19,17,0,1,37
+2009903,1575999,2025-05-08,Senate,"Reported Favorably With Substitute S-2 5/6/2025",12,6,0,0,18
+2009903,1576000,2025-05-13,Senate,"Senate Third Reading: Passed Roll Call # 91",19,18,0,0,37
+2009909,1576232,2025-05-08,Senate,"Reported Favorably With Substitute S-1 5/6/2025",12,4,0,0,16
+2009909,1576233,2025-05-13,Senate,"Senate Third Reading: Passed Roll Call # 86",19,18,0,0,37
+2009917,1575818,2025-05-08,Senate,"Reported Favorably With Substitute S-1 5/6/2025",11,1,0,0,12
+2009917,1579457,2025-05-14,Senate,"Senate Third Reading: Passed Roll Call # 121",19,17,0,1,37
+2009973,1589980,2025-06-04,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+2009973,1589981,2025-06-04,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+2009973,1594867,2025-06-24,House,"House Third Reading: Given Immediate Effect Roll Call #160",104,1,0,0,105
+2009999,1590018,2025-06-05,House,"Reported With Recommendation Without Amendment",7,3,0,0,10
+2009999,1591626,2025-06-12,House,"House Third Reading: Given Immediate Effect Roll Call #154",62,35,0,0,97
+2010016,1590072,2025-06-05,House,"Reported With Recommendation With Substitute H-1",7,2,0,0,9
+2010016,1591664,2025-06-12,House,"House Third Reading: Given Immediate Effect Roll Call #155",62,35,0,0,97
+2010041,1558329,2025-04-22,House,"House Third Reading: Given Immediate Effect Roll Call #59",104,4,0,0,108
+2010041,1558758,2025-04-17,House,"Reported With Recommendation With Substitute H-1",5,0,0,0,5
+2010098,1567760,2025-04-16,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+2010098,1574218,2025-05-14,House,"House Third Reading: Given Immediate Effect Roll Call #109",100,6,0,0,106
+2010114,1585362,2025-05-14,House,"Reported With Recommendation For Referral To Committee On Rules",11,5,0,0,16
+2010114,1588934,2025-06-05,House,"Reported With Recommendation Without Amendment",5,3,0,0,8
+2010114,1589651,2025-06-11,House,"House Third Reading: Given Immediate Effect Roll Call #147",57,52,0,0,109
+2010127,1589971,2025-06-04,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+2010127,1594875,2025-06-24,House,"House Third Reading: Given Immediate Effect Roll Call #159",104,1,0,0,105
+2010159,1567529,2025-04-16,House,"Reported With Recommendation With Substitute H-1",9,0,0,0,9
+2010159,1573831,2025-05-14,House,"House Third Reading: Given Immediate Effect Roll Call #108",101,5,0,0,106
+2010206,1562420,2025-04-24,House,"Reported With Recommendation Without Amendment",3,2,0,0,5
+2010216,1558756,2025-04-16,House,"Reported With Recommendation Without Amendment",8,0,0,0,8
+2010216,1560034,2025-04-23,House,"House Third Reading: Given Immediate Effect Roll Call #67",66,40,0,0,106
+2010275,1558757,2025-04-16,House,"Reported With Recommendation Without Amendment",8,0,0,0,8
+2010275,1560088,2025-04-23,House,"House Third Reading: Given Immediate Effect Roll Call #68",65,41,0,0,106
+2010289,1558237,2025-04-22,House,"House Third Reading: Given Immediate Effect Roll Call #62",105,3,0,0,108
+2010289,1558755,2025-04-17,House,"Reported With Recommendation Without Amendment",9,0,0,0,9
+2010318,1558037,2025-04-22,House,"House Third Reading: Given Immediate Effect Roll Call #60",104,4,0,0,108
+2010318,1558759,2025-04-17,House,"Reported With Recommendation With Substitute H-1",5,0,0,0,5
+2010979,1571501,2025-04-30,House,"Reported With Recommendation Without Amendment",15,0,0,0,15
+2010979,1579864,2025-05-20,House,"House Third Reading: Given Immediate Effect Roll Call #121",104,3,0,0,107
+2011685,1574178,2025-05-06,House,"Reported With Recommendation With Substitute H-1",6,0,0,0,6
+2011776,1566500,2025-04-15,House,"Reported With Recommendation With Substitute H-1",12,1,0,0,13
+2011776,1570252,2025-05-07,House,"House Third Reading: Given Immediate Effect Roll Call #92",83,26,0,0,109
+2011962,1570716,2025-05-01,House,"Reported With Recommendation Without Amendment",16,0,0,0,16
+2011962,1571823,2025-05-13,House,"House Third Reading: Given Immediate Effect Roll Call #103",106,0,0,0,106
+2014073,1574704,2025-05-06,House,"Reported With Recommendation Without Amendment",14,0,0,0,14
+2014073,1579876,2025-05-21,House,"House Third Reading: Given Immediate Effect Roll Call #123",97,8,0,0,105
+2014111,1583997,2025-05-20,House,"Reported With Recommendation Without Amendment",14,0,0,0,14
+2014111,1588212,2025-06-04,House,"House Third Reading: Given Immediate Effect Roll Call #139",108,0,0,0,108
+2014132,1575038,2025-05-01,House,"Reported With Recommendation With Substitute H-1",5,0,0,0,5
+2014132,1575039,2025-05-01,House,"House Third Reading: Given Immediate Effect Roll Call #80",105,1,0,0,106
+2014192,1584001,2025-05-20,House,"Reported With Recommendation Without Amendment",13,1,0,0,14
+2014192,1587924,2025-06-04,House,"House Third Reading: Given Immediate Effect Roll Call #138",108,0,0,0,108
+2014323,1583965,2025-05-21,House,"Reported With Recommendation With Substitute H-1",14,0,0,0,14
+2014323,1587413,2025-06-04,House,"House Third Reading: Given Immediate Effect Roll Call #134",101,7,0,0,108
+2015984,1568202,2025-04-23,House,"Reported With Recommendation For Referral To Committee On Rules With Substitute H-1",16,0,0,0,16
+2015984,1570437,2025-05-08,House,"Reported With Recommendation With Substitute H-1",8,0,0,0,8
+2015984,1571881,2025-05-13,House,"House Third Reading: Given Immediate Effect Roll Call #104",103,3,0,0,106
+2023947,1594546,2025-06-18,Senate,"Reported Favorably With Substitute S-3 6/17/2025",5,0,0,0,5
+2024247,1579583,2025-05-14,Senate,"Reported Favorably Without Amendment 5/14/2025",5,0,0,0,5
+2024247,1588666,2025-06-03,Senate,"Senate Third Reading: Passed Roll Call # 155",37,0,0,0,37
+2024333,1579584,2025-05-14,Senate,"Reported Favorably Without Amendment 5/14/2025",5,0,0,0,5
+2024333,1588772,2025-06-03,Senate,"Senate Third Reading: Passed Roll Call # 156",37,0,0,0,37
+2024394,1567787,2025-04-30,House,"Reported With Recommendation With Substitute H-2",6,0,0,0,6
+2024394,1574131,2025-05-14,House,"House Third Reading: Given Immediate Effect Roll Call #112",82,24,0,0,106
+2024439,1568019,2025-04-16,House,"Reported With Recommendation Without Amendment",26,0,0,0,26
+2024439,1570144,2025-05-07,House,"House Third Reading: Given Immediate Effect Roll Call #96",107,1,0,0,108
+2024702,1575832,2025-05-08,Senate,"Reported Favorably Without Amendment 5/7/2025",10,0,0,0,10
+2024702,1580278,2025-05-21,Senate,"Senate Third Reading: Passed Roll Call # 149",37,0,0,0,37
+2024708,1590487,2025-06-10,Senate,"Reported Favorably Without Amendment 6/5/2025",7,0,0,0,7
+2024708,1594873,2025-06-24,Senate,"Senate Third Reading: Passed Roll Call # 168",30,6,0,1,37
+2024723,1590273,2025-06-10,Senate,"Reported Favorably Without Amendment 6/5/2025",5,2,0,0,7
+2024723,1595359,2025-06-25,Senate,"Senate Third Reading: Passed Roll Call # 173",19,17,0,1,37
+2024738,1590256,2025-06-10,Senate,"Reported Favorably Without Amendment 6/5/2025",5,2,0,0,7
+2024738,1595529,2025-06-25,Senate,"Senate Third Reading: Passed Roll Call # 174",19,17,0,1,37
+2024746,1576085,2025-05-08,Senate,"Reported Favorably With Substitute S-1 5/7/2025",6,0,0,0,6
+2024753,1590298,2025-06-10,Senate,"Reported Favorably With Substitute S-1 6/5/2025",7,0,0,0,7
+2024753,1594874,2025-06-24,Senate,"Senate Third Reading: Passed Roll Call # 167",31,5,0,1,37
+2024760,1576037,2025-05-08,Senate,"Reported Favorably Without Amendment 5/7/2025",10,0,0,0,10
+2024760,1579877,2025-05-21,Senate,"Senate Third Reading: Passed Roll Call # 152",37,0,0,0,37
+2024764,1576272,2025-05-08,Senate,"Reported Favorably With Substitute S-3 5/7/2025",6,0,0,0,6
+2024771,1575857,2025-05-08,Senate,"Reported Favorably Without Amendment 5/7/2025",10,0,0,0,10
+2024771,1580330,2025-05-21,Senate,"Senate Third Reading: Passed Roll Call # 150",37,0,0,0,37
+2024787,1575933,2025-05-08,Senate,"Reported Favorably Without Amendment 5/7/2025",10,0,0,0,10
+2024787,1579875,2025-05-21,Senate,"Senate Third Reading: Passed Roll Call # 151",37,0,0,0,37
+2024794,1579585,2025-05-14,Senate,"Reported Favorably Without Amendment 5/14/2025",5,0,0,0,5
+2024794,1589200,2025-06-03,Senate,"Senate Third Reading: Passed Roll Call # 157",37,0,0,0,37
+2024809,1590702,2025-06-12,Senate,"Reported Favorably Without Amendment 6/11/2025",4,3,0,0,7
+2024814,1590562,2025-06-10,Senate,"Reported Favorably Without Amendment 6/5/2025",5,2,0,0,7
+2024814,1595545,2025-06-25,Senate,"Senate Third Reading: Passed Roll Call # 172",22,14,0,1,37
+2024832,1563058,2025-04-24,House,"Reported With Recommendation Without Amendment",3,2,0,0,5
+2024832,1575768,2025-05-01,House,"House Third Reading: Given Immediate Effect Roll Call #75",58,48,0,0,106
+2024844,1562342,2025-04-24,House,"Reported With Recommendation Without Amendment",3,2,0,0,5
+2024844,1575242,2025-05-01,House,"House Third Reading: Given Immediate Effect Roll Call #74",58,48,0,0,106
+2024891,1574355,2025-05-13,House,"Reported With Recommendation Without Amendment",15,0,0,0,15
+2024891,1580229,2025-05-21,House,"House Third Reading: Given Immediate Effect Roll Call #126",103,2,0,0,105
+2024912,1563186,2025-04-24,House,"Reported With Recommendation Without Amendment",3,2,0,0,5
+2024912,1575120,2025-05-01,House,"House Third Reading: Given Immediate Effect Roll Call #78",63,43,0,0,106
+2024947,1574415,2025-05-13,House,"Reported With Recommendation Without Amendment",15,0,0,0,15
+2024947,1580285,2025-05-21,House,"House Third Reading: Given Immediate Effect Roll Call #125",104,1,0,0,105
+2024954,1562167,2025-04-24,House,"Reported With Recommendation Without Amendment",3,2,0,0,5
+2024954,1575080,2025-05-01,House,"House Third Reading: Given Immediate Effect Roll Call #77",63,43,0,0,106
+2024958,1563890,2025-04-30,House,"Reported With Recommendation For Referral To Committee On Rules With Substitute H-1",11,0,0,0,11
+2024958,1566123,2025-05-01,House,"Reported With Recommendation With Substitute H-1",8,0,0,0,8
+2024958,1570085,2025-05-06,House,"House Third Reading: Given Immediate Effect Roll Call #90",110,0,0,0,110
+2024975,1562495,2025-04-24,House,"Reported With Recommendation Without Amendment",3,2,0,0,5
+2024975,1575285,2025-05-01,House,"House Third Reading: Given Immediate Effect Roll Call #76",57,49,0,0,106
+2025403,1575325,2025-05-06,Senate,"Senate Third Reading: Passed Roll Call # 77",37,0,0,0,37
+2025403,1579575,2025-04-24,Senate,"Reported Favorably Without Amendment 4/24/2025",7,0,0,0,7
+2025410,1574956,2025-05-06,Senate,"Senate Third Reading: Passed Roll Call # 75",37,0,0,0,37
+2025410,1579572,2025-04-24,Senate,"Reported Favorably Without Amendment 4/24/2025",7,0,0,0,7
+2025426,1579867,2025-05-20,Senate,"Reported Favorably Without Amendment 5/15/2025",11,0,0,0,11
+2025426,1588764,2025-06-10,Senate,"Senate Third Reading: Passed Roll Call # 161",37,0,0,0,37
+2025441,1575061,2025-05-06,Senate,"Senate Third Reading: Passed Roll Call # 74",37,0,0,0,37
+2025441,1579573,2025-04-24,Senate,"Reported Favorably Without Amendment 4/24/2025",7,0,0,0,7
+2025459,1590234,2025-06-12,Senate,"Reported Favorably With Substitute S-1 6/11/2025",7,0,0,0,7
+2025459,1595398,2025-06-25,Senate,"Senate Third Reading: Passed Roll Call # 180",28,8,0,1,37
+2025468,1575334,2025-04-30,Senate,"Reported Favorably With Substitute S-1 4/29/2025",7,0,0,0,7
+2025468,1575335,2025-05-06,Senate,"Senate Third Reading: Passed Roll Call # 78",28,9,0,0,37
+2025492,1575352,2025-05-06,Senate,"Senate Third Reading: Passed Roll Call # 76",37,0,0,0,37
+2025492,1579574,2025-04-24,Senate,"Reported Favorably Without Amendment 4/24/2025",7,0,0,0,7
+2025512,1590325,2025-06-12,Senate,"Reported Favorably With Substitute S-1 6/11/2025",7,0,0,0,7
+2025512,1595431,2025-06-25,Senate,"Senate Third Reading: Passed Roll Call # 181",28,8,0,1,37
+2025527,1591779,2025-06-05,House,"Reported With Recommendation For Referral To Committee On Rules",14,0,0,0,14
+2025586,1589823,2025-05-20,House,"Reported With Recommendation Without Amendment",5,1,0,0,6
+2025586,1591722,2025-06-12,House,"House Third Reading: Given Immediate Effect Roll Call #156",56,41,0,0,97
+2025589,1594738,2025-06-04,House,"Reported With Recommendation Without Amendment",11,0,0,0,11
+2025589,1595339,2025-06-25,House,"House Third Reading: Given Immediate Effect Roll Call #162",102,4,0,0,106
+2025612,1595702,2025-06-11,House,"Reported With Recommendation With Substitute H-3",8,0,0,0,8
+2025626,1591462,2025-06-05,House,"Reported With Recommendation Without Amendment",14,0,0,0,14
+2025660,1571050,2025-05-07,House,"Reported With Recommendation Without Amendment",13,0,0,0,13
+2025660,1573884,2025-05-14,House,"House Third Reading: Given Immediate Effect Roll Call #114",82,24,0,0,106
+2025902,1579580,2025-05-06,Senate,"Reported Favorably Without Amendment 5/6/2025",6,0,0,0,6
+2025902,1579594,2025-05-20,Senate,"Senate Third Reading: Passed Roll Call # 143",25,9,0,3,37
+2025913,1579557,2025-05-20,Senate,"Senate Third Reading: Passed Roll Call # 144",25,9,0,3,37
+2025913,1579581,2025-05-06,Senate,"Reported Favorably Without Amendment 5/6/2025",6,0,0,0,6
+2025922,1579578,2025-05-06,Senate,"Reported Favorably Without Amendment 5/6/2025",6,0,0,0,6
+2025922,1579904,2025-05-20,Senate,"Senate Third Reading: Passed Roll Call # 141",25,9,0,3,37
+2025933,1594541,2025-06-17,Senate,"Reported Favorably Without Amendment 6/12/2025",8,3,0,0,11
+2025960,1579579,2025-05-06,Senate,"Reported Favorably Without Amendment 5/6/2025",6,0,0,0,6
+2025960,1579821,2025-05-20,Senate,"Senate Third Reading: Passed Roll Call # 142",25,9,0,3,37
+2025973,1579547,2025-05-20,Senate,"Senate Third Reading: Passed Roll Call # 140",25,9,0,3,37
+2025973,1579577,2025-05-06,Senate,"Reported Favorably Without Amendment 5/6/2025",6,0,0,0,6
+2025978,1594533,2025-06-17,Senate,"Reported Favorably With Substitute S-1 6/12/2025",8,3,0,0,11
+2025988,1575302,2025-04-30,House,"Reported With Recommendation Without Amendment",17,0,0,0,17
+2025988,1581112,2025-05-22,House,"House Third Reading: Given Immediate Effect Roll Call #130",103,2,0,0,105
+2026360,1595554,2025-05-22,House,"Reported With Recommendation For Referral To Committee On Rules With Substitute H-2",5,0,0,0,5
+2026379,1589809,2025-05-15,House,"Reported With Recommendation With Substitute H-1",15,0,0,0,15
+2026379,1591905,2025-06-12,House,"House Third Reading: Given Immediate Effect Roll Call #152",95,2,0,0,97
+2026397,1590295,2025-05-15,House,"Reported With Recommendation Without Amendment",15,0,0,0,15
+2026397,1591829,2025-06-12,House,"House Third Reading: Given Immediate Effect Roll Call #151",95,2,0,0,97
+2026416,1595358,2025-05-22,House,"Reported With Recommendation Without Amendment",5,0,0,0,5
+2026431,1570730,2025-04-30,House,"Reported With Recommendation With Substitute H-1",29,0,0,0,29
+2026431,1574139,2025-05-14,House,"House Third Reading: Given Immediate Effect Roll Call #113",104,2,0,0,106
+2026992,1588997,2025-06-04,Senate,"Reported Favorably Without Amendment 6/3/2025",10,0,0,0,10
+2026992,1595926,2025-06-26,Senate,"Senate Third Reading: Passed Roll Call # 184",35,2,0,0,37
+2027025,1590318,2025-06-12,Senate,"Reported Favorably Without Amendment 6/10/2025",10,0,0,0,10
+2027025,1595925,2025-06-26,Senate,"Senate Third Reading: Passed Roll Call # 185",37,0,0,0,37
+2027109,1583941,2025-05-21,House,"Reported With Recommendation Without Amendment",16,0,0,0,16
+2027109,1587424,2025-06-04,House,"House Third Reading: Given Immediate Effect Roll Call #135",104,4,0,0,108
+2027117,1594511,2025-06-11,House,"Reported With Recommendation Without Amendment",11,0,0,0,11
+2027117,1595371,2025-06-25,House,"House Third Reading: Given Immediate Effect Roll Call #163",103,3,0,0,106
+2027142,1594878,2025-06-12,House,"Reported With Recommendation Without Amendment",13,0,0,0,13
+2027449,1590342,2025-06-12,Senate,"Reported Favorably Without Amendment 6/11/2025",5,0,0,0,5
+2027922,1587846,2025-06-04,House,"Reported With Recommendation With Substitute H-2",29,0,0,0,29
+2027922,1587847,2025-06-04,House,"House Third Reading: Given Immediate Effect Roll Call #133",108,0,0,0,108
+2027978,1595028,2025-06-12,House,"Reported With Recommendation Without Amendment",13,0,0,0,13
+2028893,1584638,2025-05-21,House,"Reported With Recommendation Without Amendment",10,0,0,0,10
+2028893,1587509,2025-06-05,House,"House Third Reading: Given Immediate Effect Roll Call #141",106,0,0,0,106
+2028905,1594399,2025-06-03,House,"Reported With Recommendation Without Amendment",13,1,0,0,14
+2028905,1595478,2025-06-25,House,"House Third Reading: Given Immediate Effect Roll Call #164",85,21,0,0,106
+2028922,1585622,2025-06-04,House,"Reported With Recommendation Without Amendment",6,2,0,0,8
+2028922,1589889,2025-06-11,House,"House Third Reading: Given Immediate Effect Roll Call #146",74,35,0,0,109
+2028939,1571121,2025-05-07,House,"Reported With Recommendation Without Amendment",9,6,0,0,15
+2029198,1589195,2025-06-04,Senate,"Reported Favorably Without Amendment 6/3/2025",5,2,0,0,7
+2029198,1595334,2025-06-25,Senate,"Senate Third Reading: Passed Roll Call # 171",22,14,0,1,37
+2029214,1589010,2025-06-04,Senate,"Reported Favorably Without Amendment 6/3/2025",5,2,0,0,7
+2029214,1589011,2025-06-10,Senate,"Senate Third Reading: Passed Roll Call # 163",22,15,0,0,37
+2029273,1589050,2025-06-04,Senate,"Reported Favorably Without Amendment 6/3/2025",5,2,0,0,7
+2029273,1589051,2025-06-10,Senate,"Senate Third Reading: Passed Roll Call # 164",22,15,0,0,37
+2029291,1588653,2025-06-04,Senate,"Reported Favorably Without Amendment 6/3/2025",5,2,0,0,7
+2029291,1588654,2025-06-10,Senate,"Senate Third Reading: Passed Roll Call # 162",22,15,0,0,37
+2029342,1574980,2025-05-15,House,"Reported With Recommendation Without Amendment",3,2,0,0,5
+2029342,1581057,2025-05-22,House,"House Third Reading: Given Immediate Effect Roll Call #132",59,45,0,0,104
+2031275,1594516,2025-06-12,House,"Reported With Recommendation Without Amendment",13,0,0,0,13
+2031275,1594870,2025-06-24,House,"House Third Reading: Given Immediate Effect Roll Call #161",101,4,0,0,105
+2031326,1595934,2025-06-26,Senate,"Reported Favorably With Substitute S-1 6/26/2025",10,0,0,0,10
+2031366,1580431,2025-05-20,Senate,"Reported Favorably Without Amendment 5/20/2025",9,0,0,0,9
+2031366,1580432,2025-05-21,Senate,"Senate Third Reading: Passed Roll Call # 153",36,1,0,0,37
+2032928,1594544,2025-06-18,Senate,"Reported Favorably Without Amendment 6/17/2025",3,1,0,0,4
+2032928,1595821,2025-06-26,Senate,"Senate Third Reading: Passed Roll Call # 189",19,18,0,0,37
+2034372,1588921,2025-06-10,Senate,"Reported Favorably Without Amendment 6/5/2025",5,2,0,0,7
+2034372,1595428,2025-06-25,Senate,"Senate Third Reading: Passed Roll Call # 175",19,17,0,1,37
+2034381,1588823,2025-06-10,Senate,"Reported Favorably Without Amendment 6/5/2025",5,2,0,0,7
+2034381,1595381,2025-06-25,Senate,"Senate Third Reading: Passed Roll Call # 176",19,17,0,1,37
+2035421,1594540,2025-06-18,Senate,"Reported Favorably With Substitute S-3 6/17/2025",6,0,0,0,6
+2035432,1594539,2025-06-18,Senate,"Reported Favorably With Substitute S-3 6/17/2025",6,0,0,0,6
+2035569,1590264,2025-06-12,Senate,"Reported Favorably Without Amendment 6/11/2025",5,3,0,0,8
+2035596,1590585,2025-06-12,Senate,"Reported Favorably Without Amendment 6/11/2025",5,3,0,0,8
+2035621,1590265,2025-06-12,Senate,"Reported Favorably Without Amendment 6/11/2025",5,3,0,0,8
+2035636,1590239,2025-06-12,Senate,"Reported Favorably Without Amendment 6/11/2025",5,3,0,0,8
+2035663,1590386,2025-06-12,Senate,"Reported Favorably Without Amendment 6/11/2025",5,3,0,0,8
+2035678,1590605,2025-06-12,Senate,"Reported Favorably Without Amendment 6/11/2025",5,3,0,0,8
+2035735,1589520,2025-06-11,House,"Reported With Recommendation With Substitute H-2",17,12,0,0,29
+2035735,1589521,2025-06-11,House,"House Third Reading: Given Immediate Effect Roll Call #148",56,53,0,0,109
+2035737,1595862,2025-06-25,House,"Reported With Recommendation For Referral To Committee On Rules",11,5,0,0,16
+2035754,1590211,2025-06-11,House,"Reported With Recommendation With Substitute H-1",17,12,0,0,29
+2035754,1591795,2025-06-12,House,"House Third Reading: Given Immediate Effect Roll Call #157",56,41,0,0,97
+2035762,1590061,2025-06-11,House,"Reported With Recommendation With Substitute H-1",17,12,0,0,29
+2035762,1590063,2025-06-11,House,"House Third Reading: Given Immediate Effect Roll Call #150",56,53,0,0,109
+2035768,1590004,2025-06-11,House,"Reported With Recommendation With Substitute H-3",17,12,0,0,29
+2035768,1590005,2025-06-11,House,"House Third Reading: Given Immediate Effect Roll Call #149",56,53,0,0,109
+2035773,1589920,2025-06-11,House,"Reported With Recommendation With Substitute H-1",16,13,0,0,29
+2035773,1591663,2025-06-12,House,"House Third Reading: Given Immediate Effect Roll Call #158",56,41,0,0,97
+2036768,1595891,2025-06-26,Senate,"Reported Favorably Without Amendment 6/25/2025",10,0,0,0,10
+2036772,1595931,2025-06-26,Senate,"Reported Favorably With Substitute S-1 6/25/2025",9,1,0,0,10
+2036782,1595896,2025-06-26,Senate,"Reported Favorably With Substitute S-1 6/25/2025",9,1,0,0,10
+2036827,1595897,2025-06-26,Senate,"Reported Favorably Without Amendment 6/25/2025",10,0,0,0,10
+2037055,1595901,2025-06-26,Senate,"Reported Favorably Without Amendment 6/25/2025",9,0,0,0,9
+2037060,1595899,2025-06-26,Senate,"Reported Favorably Without Amendment 6/25/2025",9,0,0,0,9
+2037081,1594349,2025-06-17,Senate,"Senate Third Reading: Passed Roll Call # 166",20,4,0,13,37
