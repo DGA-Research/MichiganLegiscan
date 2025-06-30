@@ -84,7 +84,7 @@ st.write(f"You selected: {selected_name}")
 
 votes_button = st.button(f"Get {selected_name}'s voting record")
 
-if voted_button:
+if votes_button:
     # find people_id
     people_id = getPeopleID(selected_name)
     st.write(people_id)
