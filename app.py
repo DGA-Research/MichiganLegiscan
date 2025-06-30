@@ -139,7 +139,7 @@ if votes_button:
     people_id = getPeopleID(selected_name)
     activeSessions = getSessions(people_id)
     votingRecord = getVotes(people_id, activeSessions)
-    st.write(formatOuput(votingRecord))
+    st.write(formatOutput(votingRecord))
     
     
 
