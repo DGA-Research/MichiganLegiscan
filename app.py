@@ -31,7 +31,7 @@ def getSessions(peopleID):
     activeSessionList = []
     sessionList = ['2009-2010', '2011-2012', '2013-2014', '2015-2016','2017-2018','2019-2020','2021-2022','2023-2024','2025-2026']
     for session in sessionList:
-        with open(f"MichiganLegiscan/{session}/people.csv",
+        with open(f"{session}/people.csv",
                   "r") as file_in:
             for row in file_in:
                 row = row.split(',')
@@ -43,7 +43,7 @@ def getSessions(peopleID):
 def getVotes(peopleID, activeSessions):
     roll_call_dict = {}
     for session in activeSessions:
-        with open(f"MichiganLegiscan/{session}/votes.csv",
+        with open(f"{session}/votes.csv",
                   "r") as file_in:
             for row in file_in:
                 row = row.split(',')
@@ -53,7 +53,7 @@ def getVotes(peopleID, activeSessions):
     # get bill id from rollcalls.csv
         for bill in roll_call_dict.keys():
             with open(
-                    f"MichiganLegiscan/{session}/rollcalls.csv",
+                    f"{session}/rollcalls.csv",
                     "r") as file_in:
                 for row in file_in:
                     row = row.split(',')
@@ -61,7 +61,7 @@ def getVotes(peopleID, activeSessions):
                         roll_call_dict[bill].append(row[0])
     # get bill information from bills.csv
         for bill in roll_call_dict.keys():
-            with open(f"MichiganLegiscan/{session}/bills.csv",
+            with open(f"{session}/bills.csv",
                     "r") as file_in:
                 for row in file_in:
                     row = row.split(',')
