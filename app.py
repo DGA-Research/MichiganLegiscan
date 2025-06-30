@@ -87,24 +87,25 @@ st.write(f"You selected: {selected_name}")
 votes_button = st.button(f"Get {selected_name}'s voting record")
 
 if votes_button:
-    # find people_id
-    people_id = getPeopleID(selected_name)
-    activeSessions = getSessions(people_id)
-    votingRecord = getVotes(people_id, activeSessions)
-    data = []
-    for roll_call_id, values in votingRecord.items():
-        row = {
-        'Roll Call ID': roll_call_id,
-        'Session': values[1],
-        'Vote': values[0].strip(),  # remove \n
-        'Bill ID': values[2],
-        'Bill Number': values[3],
-        'Date': values[4],
-        'Bill Description': values[5]
-        }
-        data.append(row)
-    df = pd.DataFrame(data)
-    st.write(df)
+    with st.spinner("Pulling voting records...")
+        # find people_id
+        people_id = getPeopleID(selected_name)
+        activeSessions = getSessions(people_id)
+        votingRecord = getVotes(people_id, activeSessions)
+        data = []
+        for roll_call_id, values in votingRecord.items():
+            row = {
+            'Session': values[1],
+            'Date': values[4],
+            'Bill Number': values[3],
+            'Bill Description': values[5]
+            'Vote': values[0].strip(),  # remove \n
+            'Bill ID': values[2],
+            'Roll Call ID': roll_call_id
+            }
+            data.append(row)
+        df = pd.DataFrame(data)
+        st.write(df)
                       
     
     
