@@ -43,7 +43,7 @@ def getSessions(peopleID):
 def getVotes(peopleID, activeSessions):
     roll_call_dict = {}
     for session in activeSessions:
-        with open(f"/Users/jessicalevin/Desktop/Michigan Legiscan Project/MichiganLegiscan/Datasets/{session}/votes.csv",
+        with open(f"MichiganLegiscan/{session}/votes.csv",
                   "r") as file_in:
             for row in file_in:
                 row = row.split(',')
@@ -53,7 +53,7 @@ def getVotes(peopleID, activeSessions):
     # get bill id from rollcalls.csv
         for bill in roll_call_dict.keys():
             with open(
-                    f"/Users/jessicalevin/Desktop/Michigan Legiscan Project/MichiganLegiscan/Datasets/{session}/rollcalls.csv",
+                    f"MichiganLegiscan/{session}/rollcalls.csv",
                     "r") as file_in:
                 for row in file_in:
                     row = row.split(',')
@@ -61,7 +61,7 @@ def getVotes(peopleID, activeSessions):
                         roll_call_dict[bill].append(row[0])
     # get bill information from bills.csv
         for bill in roll_call_dict.keys():
-            with open(f"/Users/jessicalevin/Desktop/Michigan Legiscan Project/MichiganLegiscan/Datasets/{session}/bills.csv",
+            with open(f"MichiganLegiscan/{session}/bills.csv",
                     "r") as file_in:
                 for row in file_in:
                     row = row.split(',')
