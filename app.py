@@ -6,7 +6,7 @@ import csv
 def getListNames():
     nameList = []
     # combined file with all the peopleIDs
-    with open("MichiganLegiscan/AllPeopleID.csv",
+    with open("AllPeopleID.csv",
               "r") as file_in:
         reader = csv.reader(file_in)
         next(reader)  # skip header
@@ -18,7 +18,7 @@ def getListNames():
 
 def getPeopleID(legislatorName):
     # combined file with all the peopleIDs
-    with open("MichiganLegiscan/AllPeopleID.csv",
+    with open("AllPeopleID.csv",
               "r") as file_in:
         reader = csv.reader(file_in)
         next(reader)  # skip header
