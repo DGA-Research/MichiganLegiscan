@@ -4,7 +4,7 @@ import csv
 
 
 def getListNames():
-    nameList = []
+    nameList = ['Type in a name']
     # combined file with all the peopleIDs
     with open("AllPeopleID.csv",
               "r") as file_in:
