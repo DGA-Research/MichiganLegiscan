@@ -62,7 +62,7 @@ def getVotes(peopleID, activeSessions):
     # get bill information from bills.csv
         for bill in roll_call_dict.keys():
             with open(f"{session}/bills.csv", "r", newline='') as file_in:
-                reader = csv.Dictreader(file_in)
+                reader = csv.DictReader(file_in)
                 for row in reader:
                     if row[0] == roll_call_dict[bill][2]:
                         roll_call_dict[bill].append(row[2])
