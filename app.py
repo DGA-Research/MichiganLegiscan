@@ -101,8 +101,8 @@ if votes_button:
         'Bill Number': values[3],
         'Date': values[4],
         'Bill Description': values[5]
-    }
-    data.append(row)
+        }
+        data.append(row)
     df = pd.DataFrame(data)
     st.write(df)
                       
