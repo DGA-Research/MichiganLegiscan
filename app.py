@@ -98,8 +98,8 @@ if votes_button:
             'Session': values[1],
             'Date': values[4],
             'Bill Number': values[3],
-            'Bill Description': values[5],
             'Vote': values[0].strip(),  # remove \n
+            'Bill Description': values[5],
             'Bill ID': values[2],
             'Roll Call ID': roll_call_id
             }
