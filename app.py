@@ -68,6 +68,12 @@ def getVotes(peopleID, activeSessions):
                         roll_call_dict[bill].append(row["bill_number"])
                         roll_call_dict[bill].append(row["status_date"])
                         roll_call_dict[bill].append(row["title"])
+    # add whether in a tie-breaker
+        for bill in roll_call_dict.keys():
+            if (abs(int(roll_call_dict[bill][3]) - int(roll_call_dict[bill][4]))) == 1:
+                roll_call_dict[bill].append("TRUE")
+            else:
+                roll_call_dict[bill].append("FALSE")
 
     return(roll_call_dict)
 
