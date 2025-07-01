@@ -134,7 +134,7 @@ elif sponsor_button:
         # find people_id
         people_id = getPeopleID(selected_name)
         activeSessions = getSessions(people_id)
-        sponsoredBills = getSponsorships(peopleID, activeSessions)
+        sponsoredBills = getSponsorships(people_ID, activeSessions)
         data = []
         for bill_id, values in sponsoredBills.items():
             row = {
