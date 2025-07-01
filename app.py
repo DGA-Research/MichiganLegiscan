@@ -120,8 +120,8 @@ if votes_button:
             'Bill Description': values[10],
             'Yea': values[3],
             'Nay': values[4],
-            'No Vote: values[5],
-            'Absent: values[6],
+            'No Vote': values[5],
+            'Absent': values[6],
             'Bill ID': values[2],
             'Roll Call ID': roll_call_id
             }
