@@ -140,7 +140,7 @@ elif sponsor_button:
             row = {
             'Date': values[1],
             'Bill Number': values[0],
-            'Status': values[2]
+            'Status': values[2],
             'Bill Description': values[3],
             'URL': values[5],
             'Bill ID': bill_id
