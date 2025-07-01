@@ -129,7 +129,8 @@ if votes_button:
             'No Vote': values[5],
             'Absent': values[6],
             'Bill ID': values[2],
-            'Roll Call ID': roll_call_id
+            'Roll Call ID': roll_call_id, 
+            'Tie-breaking vote': values[11]
             }
             data.append(row)
         df = pd.DataFrame(data)
