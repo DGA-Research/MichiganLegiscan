@@ -76,11 +76,10 @@ def getVotes(peopleID, activeSessions):
                 else:
                     roll_call_dict[bill].append("NOT TIE BREAKER")
             else:
-                if roll_call_dict[bill][8] == "House":
-                    if (abs(int(roll_call_dict[bill][3]) - 55)) < 2:
-                        roll_call_dict[bill].append("TIE BREAKER")
-                    else:
-                        roll_call_dict[bill].append("NOT TIE BREAKER")
+                if (abs(int(roll_call_dict[bill][3]) - 55)) < 2:
+                    roll_call_dict[bill].append("TIE BREAKER")
+                else:
+                    roll_call_dict[bill].append("NOT TIE BREAKER")
     # add whether extreme minority
         for bill in roll_call_dict.keys():
             threshold_20 = (int(roll_call_dict[bill][3]) + int(roll_call_dict[bill][4]) + int(roll_call_dict[bill][5]) + int(roll_call_dict[bill][6])) * 0.2
@@ -98,6 +97,7 @@ def getVotes(peopleID, activeSessions):
                 roll_call_dict[bill].append("MINORITY")
             else:
                 roll_call_dict[bill].append("NOT MINORITY")
+    print(roll_call_dict)
     return(roll_call_dict)
 
 
