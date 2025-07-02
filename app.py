@@ -92,7 +92,7 @@ def getVotes(peopleID, activeSessions):
             elif roll_call_dict[bill][0] == "NV\n":
                 vote_number = 5
             elif roll_call_dict[bill][0] == "Absent\n":
-                vote_number = 5
+                vote_number = 6
             # see if threshold
             if int(roll_call_dict[bill][vote_number]) <= threshold_20:
                 roll_call_dict[bill].append("MINORITY")
@@ -143,17 +143,18 @@ if votes_button:
         for roll_call_id, values in votingRecord.items():
             row = {
             'Session': values[1],
-            'Date': values[9],
-            'Bill Number': values[8],
+            'Date': values[10],
+            'Bill Number': values[9],
             'Vote': values[0].strip(),  # remove \n
-            'Bill Description': values[10],
+            'Bill Description': values[11],
             'Yea': values[3],
             'Nay': values[4],
             'No Vote': values[5],
             'Absent': values[6],
+            'Tie-breaking vote': values[12],
+            'Extreme minority vote': values[13],
             'Bill ID': values[2],
-            'Roll Call ID': roll_call_id, 
-            'Tie-breaking vote': values[11]
+            'Roll Call ID': roll_call_id
             }
             data.append(row)
         df = pd.DataFrame(data)
