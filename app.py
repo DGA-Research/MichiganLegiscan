@@ -72,10 +72,13 @@ def getVotes(peopleID, activeSessions):
         for bill in roll_call_dict.keys():
             if roll_call_dict[bill][8] == "House":
                 if int(roll_call_dict[bill][3]) == 56 and roll_call_dict[bill][0] == "Yea\n":
+                    st.write("Tie breaker", "Yeas:", roll_call_dict[bill][3], "Personal vote:", roll_call_dict[bill][0])
                     roll_call_dict[bill].append("TIE BREAKER")
                 elif int(roll_call_dict[bill][3]) == 56 and roll_call_dict[bill][0] != "Yea\n":
                     roll_call_dict[bill].append("NOT TIE BREAKER")
+                    st.write("Not Tie breaker", "Yeas:", roll_call_dict[bill][3], "Personal vote:", roll_call_dict[bill][0])
                 elif int(roll_call_dict[bill][3]) == 55 and roll_call_dict[bill][0] != "Yea\n":
+                    st.write("Tie breaker", "Yeas:", roll_call_dict[bill][3], "Personal vote:", roll_call_dict[bill][0])
                     roll_call_dict[bill].append("TIE BREAKER")
             elif roll_call_dict[bill][8] == "Senate":
                 if int(roll_call_dict[bill][3]) == 19 and roll_call_dict[bill][0] == "Yea\n":
