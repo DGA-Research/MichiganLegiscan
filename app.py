@@ -70,11 +70,34 @@ def getVotes(peopleID, activeSessions):
                         roll_call_dict[bill].append(row["title"])
     # add whether in a tie-breaker
         for bill in roll_call_dict.keys():
-            if (abs(int(roll_call_dict[bill][3]) - int(roll_call_dict[bill][4]))) == 1:
-                roll_call_dict[bill].append("TRUE")
+            if roll_call_dict[bill][8] == "Senate":
+                if (abs(int(roll_call_dict[bill][3]) - 19)) < 2:
+                    roll_call_dict[bill].append("TIE BREAKER")
+                else:
+                    roll_call_dict[bill].append("NOT TIE BREAKER")
             else:
-                roll_call_dict[bill].append("FALSE")
-
+                if roll_call_dict[bill][8] == "House":
+                    if (abs(int(roll_call_dict[bill][3]) - 55)) < 2:
+                        roll_call_dict[bill].append("TIE BREAKER")
+                    else:
+                        roll_call_dict[bill].append("NOT TIE BREAKER")
+    # add whether extreme minority
+        for bill in roll_call_dict.keys():
+            threshold_20 = (int(roll_call_dict[bill][3]) + int(roll_call_dict[bill][4]) + int(roll_call_dict[bill][5]) + int(roll_call_dict[bill][6])) * 0.2
+            # give vote number
+            if roll_call_dict[bill][0] == "Yea\n":
+                vote_number = 3
+            elif roll_call_dict[bill][0] == "Nay\n":
+                vote_number = 4
+            elif roll_call_dict[bill][0] == "NV\n":
+                vote_number = 5
+            elif roll_call_dict[bill][0] == "Absent\n":
+                vote_number = 5
+            # see if threshold
+            if int(roll_call_dict[bill][vote_number]) <= threshold_20:
+                roll_call_dict[bill].append("MINORITY")
+            else:
+                roll_call_dict[bill].append("NOT MINORITY")
     return(roll_call_dict)
 
 
