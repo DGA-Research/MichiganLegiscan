@@ -105,7 +105,6 @@ def getVotes(peopleID, activeSessions):
                 roll_call_dict[bill].append("MINORITY")
             else:
                 roll_call_dict[bill].append("NOT MINORITY")
-            st.write(roll_call_dict[bill])
     print(roll_call_dict)
     return(roll_call_dict)
 
