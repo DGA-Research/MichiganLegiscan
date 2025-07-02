@@ -80,11 +80,11 @@ def getVotes(peopleID, activeSessions):
                 else:
                     roll_call_dict[bill].append("NOT TIE BREAKER")
             elif roll_call_dict[bill][8] == "Senate":
-                if int(roll_call_dict[bill][3]) == 19 and roll_call_dict[bill][0] == "Yea\n":
+                if int(roll_call_dict[bill][3]) == 20 and roll_call_dict[bill][0] == "Yea\n":
                     roll_call_dict[bill].append("TIE BREAKER")
-                elif int(roll_call_dict[bill][3]) == 19 and roll_call_dict[bill][0] != "Yea\n":
+                elif int(roll_call_dict[bill][3]) == 20 and roll_call_dict[bill][0] != "Yea\n":
                     roll_call_dict[bill].append("NOT TIE BREAKER")
-                elif int(roll_call_dict[bill][3]) == 18 and roll_call_dict[bill][0] != "Yea\n":
+                elif int(roll_call_dict[bill][3]) == 19 and roll_call_dict[bill][0] != "Yea\n":
                     roll_call_dict[bill].append("TIE BREAKER")
                 else:
                     roll_call_dict[bill].append("NOT TIE BREAKER")
